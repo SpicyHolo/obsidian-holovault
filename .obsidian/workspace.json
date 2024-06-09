@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uczenie Maszynowe/DBSCAN.md",
+                "file": "Uczenie Maszynowe/gradient boosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uczenie Maszynowe/DBSCAN.md",
+                "file": "Uczenie Maszynowe/gradient boosting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uczenie Maszynowe/DBSCAN.md",
+                "file": "Uczenie Maszynowe/gradient boosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uczenie Maszynowe/DBSCAN.md",
+                "file": "Uczenie Maszynowe/gradient boosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uczenie Maszynowe/DBSCAN.md"
+                "file": "Uczenie Maszynowe/gradient boosting.md"
               }
             }
           }
@@ -190,9 +190,17 @@
   },
   "active": "402d4b23fcb55926",
   "lastOpenFiles": [
+    "Uczenie Maszynowe/epoch.md",
+    "Uczenie Maszynowe/classifiers.md",
+    "Uczenie Maszynowe/backpropagation.md",
+    "Uczenie Maszynowe/batchnorm.md",
+    "Uczenie Maszynowe/bias-variance tradeoff.md",
+    "Uczenie Maszynowe/DBSCAN.md",
+    "Uczenie Maszynowe/Machine Learning.md",
+    "Uczenie Maszynowe/regression.md",
+    "Uczenie Maszynowe/nonlinear regression.md",
     "Uczenie Maszynowe/cost function.md",
     "tuning classifiers.md",
-    "Uczenie Maszynowe/Machine Learning.md",
     "Uczenie Maszynowe/RNN.md",
     "Uczenie Maszynowe/ROCKET.md",
     "Uczenie Maszynowe/assets/1D convolution.png",
@@ -200,28 +208,20 @@
     "Uczenie Maszynowe/N-BEATS.md",
     "assets/N-beats-fc-stack.png",
     "assets/Pasted image 20240610001850.png",
-    "Uczenie Maszynowe/classifiers.md",
     "Uczenie Maszynowe/assets/N-BEATS.png",
     "Uczenie Maszynowe/assets/RNN-ML.png",
     "Uczenie Maszynowe/assets/rnn-1L.png",
     "Uczenie Maszynowe/neural network.md",
     "Uczenie Maszynowe/neuron model.md",
     "Uczenie Maszynowe/network training.md",
-    "Uczenie Maszynowe/backpropagation.md",
     "Uczenie Maszynowe/dropout.md",
     "Uczenie Maszynowe/ReLU.md",
-    "Uczenie Maszynowe/batchnorm.md",
     "Uczenie Maszynowe/minibatch.md",
     "Uczenie Maszynowe/enthropy.md",
     "Uczenie Maszynowe/decision tree.md",
     "Uczenie Maszynowe/ADAM.md",
-    "Uczenie Maszynowe/epoch.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/hidden layer.md",
-    "Uczenie Maszynowe/precision vs recall.md",
-    "Uczenie Maszynowe/perceptron.md",
-    "Uczenie Maszynowe/nonlinear regression.md",
-    "Uczenie Maszynowe/unsupervised learning.md",
     "obsidian-holovault",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Uczenie Maszynowe/assets/activation-function.png",
