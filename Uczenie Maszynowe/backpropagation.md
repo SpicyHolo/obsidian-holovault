@@ -19,4 +19,11 @@ W batch mode, podajemy cały zbiór uczący, ostateczne aktualizacja jest średn
 
 Dla bardzo dużych zbiorów danych: [[minibatch]], [[SGD]]
 
+### Problem lokalnego minima
+Poruszanie się w kierunku spadku gradientu powoduje utykanie w lokalnych minimach funkcji.
+Rozwiązaniem problemu jest dodanie momentu, do składowej wektora
+$$\theta=\theta-\eta \cdot\nabla_\theta \, J(\theta) \text{ - wersja bez momentu}$$$
+$$v_t=\gamma v_{t-1} + \eta \cdot\nabla_\theta \, J(\theta) \text{ - wersja bez momentu}$$ $
+$$\theta $$
+
 #machineLearning #neuralNetwork

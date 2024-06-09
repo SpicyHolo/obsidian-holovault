@@ -33,7 +33,11 @@ $$f(x) =
 $$
 Prosty model z wagą $w$ , biasem $b$. 
 
-### Uczczenie sieci wielowarstwowych - *[[backpropagation]]*
+### Uczczenie sieci wielowarstwowych 
+
+Stosuje się algorytm: *[[backpropagation]]*
+
+
 
 ### Impulsowe sieci neuronowe - *[[spiking neural network]]*
 Bardziej zbliżone do mechanizmu działania biologicznych sieci neuronowych.

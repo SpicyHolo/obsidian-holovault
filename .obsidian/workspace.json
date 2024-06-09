@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neuron model.md",
+                "file": "Uczenie Maszynowe/backpropagation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,15 @@
             "id": "402d4b23fcb55926",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "minibatch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8be42a3e2b3894c8",
@@ -45,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neuron model.md",
+                "file": "Uczenie Maszynowe/backpropagation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neuron model.md",
+                "file": "Uczenie Maszynowe/backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neuron model.md",
+                "file": "Uczenie Maszynowe/backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neuron model.md"
+                "file": "Uczenie Maszynowe/backpropagation.md"
               }
             }
           }
@@ -201,25 +202,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "402d4b23fcb55926",
+  "active": "27e87f6e631c0e77",
   "lastOpenFiles": [
+    "Uczenie Maszynowe/neural network.md",
+    "Uczenie Maszynowe/backpropagation.md",
+    "Uczenie Maszynowe/neuron model.md",
+    "minibatch.md",
+    "Uczenie Maszynowe/gradient boosting.md",
+    "Uczenie Maszynowe/hidden layer.md",
+    "Uczenie Maszynowe/precision vs recall.md",
+    "Uczenie Maszynowe/perceptron.md",
+    "Uczenie Maszynowe/nonlinear regression.md",
+    "Uczenie Maszynowe/unsupervised learning.md",
+    "Uczenie Maszynowe/SVM (support vector machines).md",
+    "Uczenie Maszynowe/spiking neural network.md",
+    "Uczenie Maszynowe/SGD.md",
+    "README.md",
     "obsidian-holovault",
-    "SGD.md",
     "Uczenie Maszynowe/random forest.md",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
-    "Uczenie Maszynowe/backpropagation.md",
-    "Uczenie Maszynowe/neural network.md",
     "Uczenie Maszynowe/input layer.md",
-    "neuron model.md",
     "Uczenie Maszynowe/Machine Learning.md",
     "Uczenie Maszynowe/enthropy.md",
-    "Uczenie Maszynowe/unsupervised learning.md",
-    "Uczenie Maszynowe/hidden layer.md",
     "Uczenie Maszynowe/CNN.md",
-    "Uczenie Maszynowe/spiking neural network.md",
     "Uczenie Maszynowe/ReLU.md",
     "Uczenie Maszynowe/activation function.md",
-    "Uczenie Maszynowe/perceptron.md",
     "Uczenie Maszynowe/MSE.md",
     "Uczenie Maszynowe/assets/activation-function.png",
     "Uczenie Maszynowe/neuron.md",
@@ -230,12 +237,7 @@
     "ReLu.md",
     "assets/Pasted image 20240607133327.png",
     "assets/sigmoid, tanh.png",
-    "Uczenie Maszynowe/nonlinear regression.md",
-    "Uczenie Maszynowe/SVM (support vector machines).md",
     "Uczenie Maszynowe/ROC curve.md",
-    "Uczenie Maszynowe/bias-variance tradeoff.md",
-    "Uczenie Maszynowe/scoring ML.md",
-    "Uczenie Maszynowe/classifiers.md",
     "Uczenie Maszynowe/assets/monty python.webp",
     "Uczenie Maszynowe/assets/ml_diagram.png",
     "Untitled.canvas",
