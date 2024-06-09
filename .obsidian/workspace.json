@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uczenie Maszynowe/backpropagation.md",
+                "file": "Uczenie Maszynowe/neural network.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minibatch.md",
+                "file": "Uczenie Maszynowe/minibatch.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uczenie Maszynowe/backpropagation.md",
+                "file": "Uczenie Maszynowe/neural network.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uczenie Maszynowe/backpropagation.md",
+                "file": "Uczenie Maszynowe/neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uczenie Maszynowe/backpropagation.md",
+                "file": "Uczenie Maszynowe/neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uczenie Maszynowe/backpropagation.md"
+                "file": "Uczenie Maszynowe/neural network.md"
               }
             }
           }
@@ -204,10 +204,12 @@
   },
   "active": "27e87f6e631c0e77",
   "lastOpenFiles": [
+    "Uczenie Maszynowe/ADAM.md",
+    "Uczenie Maszynowe/epoch.md",
+    "Uczenie Maszynowe/minibatch.md",
     "Uczenie Maszynowe/neural network.md",
     "Uczenie Maszynowe/backpropagation.md",
     "Uczenie Maszynowe/neuron model.md",
-    "minibatch.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/hidden layer.md",
     "Uczenie Maszynowe/precision vs recall.md",
@@ -234,10 +236,8 @@
     "convolution netro.md",
     "Uczenie Maszynowe/assets/neural network model.png",
     "Uczenie Maszynowe/assets/sigmoid, tanh.png",
-    "ReLu.md",
     "assets/Pasted image 20240607133327.png",
     "assets/sigmoid, tanh.png",
-    "Uczenie Maszynowe/ROC curve.md",
     "Uczenie Maszynowe/assets/monty python.webp",
     "Uczenie Maszynowe/assets/ml_diagram.png",
     "Untitled.canvas",

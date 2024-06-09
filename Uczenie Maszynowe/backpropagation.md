@@ -22,8 +22,16 @@ Dla bardzo dużych zbiorów danych: [[minibatch]], [[SGD]]
 ### Problem lokalnego minima
 Poruszanie się w kierunku spadku gradientu powoduje utykanie w lokalnych minimach funkcji.
 Rozwiązaniem problemu jest dodanie momentu, do składowej wektora
-$$\theta=\theta-\eta \cdot\nabla_\theta \, J(\theta) \text{ - wersja bez momentu}$$$
-$$v_t=\gamma v_{t-1} + \eta \cdot\nabla_\theta \, J(\theta) \text{ - wersja bez momentu}$$ $
-$$\theta $$
+$$\theta=\theta-\eta \cdot\nabla_\theta \, J(\theta) \text{ - wersja bez momentu}$$
+$$
+\begin{cases}
+v_t=\gamma \cdot v_{t-1} + \eta \cdot\nabla_\theta \, J(\theta) \\
+\theta = \theta - v_t 
+\end{cases} \;\text{ - wersja z momentem}$$
+$\eta$ - stała uczenia, $J$ - funkcja kosztu, $\theta$ - parametry
+
+### Algorytm [[ADAM]] (Adaptive Moment Estimation)
+Adaptacyjnie dostosowuj wartość momentu.
+
 
 #machineLearning #neuralNetwork
