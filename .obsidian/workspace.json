@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "c5e312fe0a1eea7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a9d00ff1777c1a4",
+        "type": "tabs",
+        "dimension": 77.06806282722513,
+        "children": [
+          {
+            "id": "27e87f6e631c0e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neuron model.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "0ee96e300919a0f9"
+          },
+          {
+            "id": "402d4b23fcb55926",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8be42a3e2b3894c8",
+        "type": "tabs",
+        "dimension": 22.931937172774873,
+        "children": [
+          {
+            "id": "8947f3fccfbb36b2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "neuron model.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000009,
+                  "close": false
+                }
+              }
+            },
+            "group": "0ee96e300919a0f9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96d45cf52cbee249",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45b7954dfee9b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d0da801ad426c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9de27f29533fe9b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#neuralNetwork",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e95b93c0f0303c4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "c19d8ea217b70bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f60b69d7f9b2024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e2b99efcf6f383",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "neuron model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbd6c3e5a7d99c71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "neuron model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6254b368f8903c79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0631d14c6fef509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "neuron model.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "402d4b23fcb55926",
+  "lastOpenFiles": [
+    "obsidian-holovault",
+    "SGD.md",
+    "Uczenie Maszynowe/random forest.md",
+    "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
+    "Uczenie Maszynowe/backpropagation.md",
+    "Uczenie Maszynowe/neural network.md",
+    "Uczenie Maszynowe/input layer.md",
+    "neuron model.md",
+    "Uczenie Maszynowe/Machine Learning.md",
+    "Uczenie Maszynowe/enthropy.md",
+    "Uczenie Maszynowe/unsupervised learning.md",
+    "Uczenie Maszynowe/hidden layer.md",
+    "Uczenie Maszynowe/CNN.md",
+    "Uczenie Maszynowe/spiking neural network.md",
+    "Uczenie Maszynowe/ReLU.md",
+    "Uczenie Maszynowe/activation function.md",
+    "Uczenie Maszynowe/perceptron.md",
+    "Uczenie Maszynowe/MSE.md",
+    "Uczenie Maszynowe/assets/activation-function.png",
+    "Uczenie Maszynowe/neuron.md",
+    "Uczenie Maszynowe/assets/backpropagation gradient.png",
+    "convolution netro.md",
+    "Uczenie Maszynowe/assets/neural network model.png",
+    "Uczenie Maszynowe/assets/sigmoid, tanh.png",
+    "ReLu.md",
+    "assets/Pasted image 20240607133327.png",
+    "assets/sigmoid, tanh.png",
+    "Uczenie Maszynowe/nonlinear regression.md",
+    "Uczenie Maszynowe/SVM (support vector machines).md",
+    "Uczenie Maszynowe/ROC curve.md",
+    "Uczenie Maszynowe/bias-variance tradeoff.md",
+    "Uczenie Maszynowe/scoring ML.md",
+    "Uczenie Maszynowe/classifiers.md",
+    "Uczenie Maszynowe/assets/monty python.webp",
+    "Uczenie Maszynowe/assets/ml_diagram.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Uczenie Maszynowe/assets/random forest.jpg",
+    "assets",
+    "Uczenie Maszynowe/assets",
+    "Uczenie Maszynowe",
+    "Nowoczesne sensory w Robotyce/assets",
+    "Nowoczesne sensory w Robotyce"
+  ]
+}
