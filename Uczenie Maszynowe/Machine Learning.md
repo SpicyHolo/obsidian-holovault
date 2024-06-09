@@ -21,8 +21,11 @@ Polega na podzieleniu danych  na pewne grupy(klasy), modele nazywamy klasyfikato
 
 Łączenie kilku klasyfikatorów w celu uzyskania jednego potężnego o lepszych właściwościach..
 
+### Strojenie klasyfikatorów ([[tuning classifiers]])
+Dobór hiperparamametrów modeli.
 ### Sieci neuronowe ([[neural network]])
 
 ![[monty python.webp]]
+
 
 #machineLearning 

@@ -1,6 +1,6 @@
 *Rekurencyjne sieci neuronowe,* umożliwiają generację ciągów (np. szeregów czasowych)
 - Modelowanie rynku, finansów
-- Analiza sygnałów czasowych
+- Analiza sygnałów czasowych [[time series analysis]]
 - Przewidywanie zjawisk fizycznych
 
 ### Przetwarzanie mowy, tekstu
@@ -33,5 +33,16 @@ Na wejście podajemy kompletną sekwencję w celu wyznaczenia funkcji kosztu, a 
 $$J = \sum^N_{t=1}J^{<t>}$$
 **Problemy:** zanik i eksplozja gradientu, duża złożoność
 
-W rozwiązaniu korzysta się z *truncated backpropagation through time*
+W rozwiązaniu korzysta się z *truncated backpropagation through time*, gdzie dla wstecznej propagacji do wyznaczaniu gradientu wykorzystujemy tylko część ostatnich kroków.
+
+### Sieci LSTM
+
+[[LSTM]] to sieci z wbudowaną pamięcią.
+modyfikację: GRU, RNN
+
+### Filtry konwolucyjne 1-D
+Do ekstrakcji cech, pełnią rolę filtru cyfrowego.
+
+bazuje na nich:
+[[ROCKET]] - RandOM Convolutional KErnel Transform
 

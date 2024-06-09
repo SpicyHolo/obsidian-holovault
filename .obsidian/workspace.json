@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNN.md",
+                "file": "tuning classifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RNN.md",
+                "file": "tuning classifiers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNN.md",
+                "file": "tuning classifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RNN.md",
+                "file": "tuning classifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RNN.md"
+                "file": "tuning classifiers.md"
               }
             }
           }
@@ -190,10 +190,20 @@
   },
   "active": "402d4b23fcb55926",
   "lastOpenFiles": [
-    "assets/RNN-ML.png",
-    "assets/rnn-1L.png",
+    "Uczenie Maszynowe/Machine Learning.md",
+    "tuning classifiers.md",
+    "Uczenie Maszynowe/RNN.md",
+    "Uczenie Maszynowe/ROCKET.md",
+    "Uczenie Maszynowe/assets/1D convolution.png",
+    "Uczenie Maszynowe/time series analysis.md",
+    "Uczenie Maszynowe/N-BEATS.md",
+    "assets/N-beats-fc-stack.png",
+    "assets/Pasted image 20240610001850.png",
+    "Uczenie Maszynowe/classifiers.md",
+    "Uczenie Maszynowe/assets/N-BEATS.png",
+    "Uczenie Maszynowe/assets/RNN-ML.png",
+    "Uczenie Maszynowe/assets/rnn-1L.png",
     "Uczenie Maszynowe/neural network.md",
-    "RNN.md",
     "Uczenie Maszynowe/neuron model.md",
     "Uczenie Maszynowe/network training.md",
     "Uczenie Maszynowe/backpropagation.md",
@@ -203,7 +213,6 @@
     "Uczenie Maszynowe/minibatch.md",
     "Uczenie Maszynowe/enthropy.md",
     "Uczenie Maszynowe/cost function.md",
-    "Uczenie Maszynowe/classifiers.md",
     "Uczenie Maszynowe/decision tree.md",
     "Uczenie Maszynowe/ADAM.md",
     "Uczenie Maszynowe/epoch.md",
@@ -213,20 +222,11 @@
     "Uczenie Maszynowe/perceptron.md",
     "Uczenie Maszynowe/nonlinear regression.md",
     "Uczenie Maszynowe/unsupervised learning.md",
-    "Uczenie Maszynowe/SVM (support vector machines).md",
-    "Uczenie Maszynowe/spiking neural network.md",
-    "Uczenie Maszynowe/SGD.md",
-    "README.md",
     "obsidian-holovault",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Uczenie Maszynowe/assets/activation-function.png",
     "Uczenie Maszynowe/assets/backpropagation gradient.png",
     "Uczenie Maszynowe/assets/neural network model.png",
-    "Uczenie Maszynowe/assets/sigmoid, tanh.png",
-    "assets/Pasted image 20240607133327.png",
-    "assets/sigmoid, tanh.png",
-    "Uczenie Maszynowe/assets/monty python.webp",
-    "Uczenie Maszynowe/assets/ml_diagram.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "assets",
