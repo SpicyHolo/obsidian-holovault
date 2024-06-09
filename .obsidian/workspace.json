@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuning classifiers.md",
+                "file": "Uczenie Maszynowe/DBSCAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tuning classifiers.md",
+                "file": "Uczenie Maszynowe/DBSCAN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tuning classifiers.md",
+                "file": "Uczenie Maszynowe/DBSCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tuning classifiers.md",
+                "file": "Uczenie Maszynowe/DBSCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tuning classifiers.md"
+                "file": "Uczenie Maszynowe/DBSCAN.md"
               }
             }
           }
@@ -190,8 +190,9 @@
   },
   "active": "402d4b23fcb55926",
   "lastOpenFiles": [
-    "Uczenie Maszynowe/Machine Learning.md",
+    "Uczenie Maszynowe/cost function.md",
     "tuning classifiers.md",
+    "Uczenie Maszynowe/Machine Learning.md",
     "Uczenie Maszynowe/RNN.md",
     "Uczenie Maszynowe/ROCKET.md",
     "Uczenie Maszynowe/assets/1D convolution.png",
@@ -212,7 +213,6 @@
     "Uczenie Maszynowe/batchnorm.md",
     "Uczenie Maszynowe/minibatch.md",
     "Uczenie Maszynowe/enthropy.md",
-    "Uczenie Maszynowe/cost function.md",
     "Uczenie Maszynowe/decision tree.md",
     "Uczenie Maszynowe/ADAM.md",
     "Uczenie Maszynowe/epoch.md",
