@@ -1,6 +1,6 @@
 ### Uczczenie sieci wielowarstwowych
 
-Stosuje się algorytm: *[[backpropagation]]*, ab
+Stosuje się algorytm: *[[backpropagation]]*, aby warstwa po warstwie aktualizować parametry sieci.
 
 ### Podział na epoki
 Podział uczenia na Epoki [[epoch]] (epoka odpowiada podaniu na wejściu całego zbioru uczącego)

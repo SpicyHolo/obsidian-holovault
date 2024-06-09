@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network training.md",
+                "file": "RNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "network training.md",
+                "file": "RNN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network training.md",
+                "file": "RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network training.md",
+                "file": "RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network training.md"
+                "file": "RNN.md"
               }
             }
           }
@@ -190,8 +190,12 @@
   },
   "active": "402d4b23fcb55926",
   "lastOpenFiles": [
+    "assets/RNN-ML.png",
+    "assets/rnn-1L.png",
     "Uczenie Maszynowe/neural network.md",
-    "network training.md",
+    "RNN.md",
+    "Uczenie Maszynowe/neuron model.md",
+    "Uczenie Maszynowe/network training.md",
     "Uczenie Maszynowe/backpropagation.md",
     "Uczenie Maszynowe/dropout.md",
     "Uczenie Maszynowe/ReLU.md",
@@ -203,7 +207,6 @@
     "Uczenie Maszynowe/decision tree.md",
     "Uczenie Maszynowe/ADAM.md",
     "Uczenie Maszynowe/epoch.md",
-    "Uczenie Maszynowe/neuron model.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/hidden layer.md",
     "Uczenie Maszynowe/precision vs recall.md",
@@ -215,9 +218,7 @@
     "Uczenie Maszynowe/SGD.md",
     "README.md",
     "obsidian-holovault",
-    "Uczenie Maszynowe/random forest.md",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
-    "Uczenie Maszynowe/input layer.md",
     "Uczenie Maszynowe/assets/activation-function.png",
     "Uczenie Maszynowe/assets/backpropagation gradient.png",
     "Uczenie Maszynowe/assets/neural network model.png",
@@ -228,7 +229,6 @@
     "Uczenie Maszynowe/assets/ml_diagram.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Uczenie Maszynowe/assets/random forest.jpg",
     "assets",
     "Uczenie Maszynowe/assets",
     "Uczenie Maszynowe",

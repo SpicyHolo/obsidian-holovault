@@ -39,6 +39,7 @@ Prosty model z wagą $w$ , biasem $b$.
 Bardziej zbliżone do mechanizmu działania biologicznych sieci neuronowych.
 https://arxiv.org/pdf/1804.08150
 
+### Sieci rekurencyjne [[RNN]]
 
 
 #machineLearning #neuralNetwork
