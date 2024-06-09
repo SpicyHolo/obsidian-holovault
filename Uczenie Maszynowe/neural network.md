@@ -37,7 +37,9 @@ Prosty model z wagą $w$ , biasem $b$.
 - Stosuje się algorytm: *[[backpropagation]]*
 - Podział uczenia na Epoki [[epoch]] (epoka odpowiada podaniu na wejściu całego zbioru uczącego)
 - Definiuje się kryterium zatrzymania (np. dokładność / [[cost function]] na zbiorze walidacyjnym, nie polepszy się przez 10 epok)
-- Wartość stałej uczenia można zmieniać wg harmonogramu, albo warunkó w
+- Wartość stałej uczenia można zmieniać wg harmonogramu, albo warunków.
+- Normalizacja danych: [[batchnorm]], [[dropout]], ogólnie poprawiają uzyskiwane wyniki i przyspieszają uczenie.
+
 
 ### Impulsowe sieci neuronowe - *[[spiking neural network]]*
 Bardziej zbliżone do mechanizmu działania biologicznych sieci neuronowych.

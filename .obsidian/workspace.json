@@ -9,25 +9,12 @@
         "dimension": 77.06806282722513,
         "children": [
           {
-            "id": "27e87f6e631c0e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uczenie Maszynowe/neural network.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "0ee96e300919a0f9"
-          },
-          {
             "id": "402d4b23fcb55926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uczenie Maszynowe/minibatch.md",
+                "file": "dropout.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uczenie Maszynowe/neural network.md",
+                "file": "dropout.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -69,12 +56,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000009,
+                  "scale": 0.713275462622443,
                   "close": false
                 }
               }
-            },
-            "group": "0ee96e300919a0f9"
+            }
           }
         ]
       }
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uczenie Maszynowe/neural network.md",
+                "file": "dropout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uczenie Maszynowe/neural network.md",
+                "file": "dropout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uczenie Maszynowe/neural network.md"
+                "file": "dropout.md"
               }
             }
           }
@@ -202,13 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27e87f6e631c0e77",
+  "active": "402d4b23fcb55926",
   "lastOpenFiles": [
+    "Uczenie Maszynowe/batchnorm.md",
+    "dropout.md",
+    "Uczenie Maszynowe/neural network.md",
+    "Uczenie Maszynowe/minibatch.md",
+    "Uczenie Maszynowe/enthropy.md",
+    "Uczenie Maszynowe/cost function.md",
+    "Uczenie Maszynowe/classifiers.md",
+    "Uczenie Maszynowe/decision tree.md",
+    "Uczenie Maszynowe/backpropagation.md",
     "Uczenie Maszynowe/ADAM.md",
     "Uczenie Maszynowe/epoch.md",
-    "Uczenie Maszynowe/minibatch.md",
-    "Uczenie Maszynowe/neural network.md",
-    "Uczenie Maszynowe/backpropagation.md",
     "Uczenie Maszynowe/neuron model.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/hidden layer.md",
@@ -225,15 +217,9 @@
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Uczenie Maszynowe/input layer.md",
     "Uczenie Maszynowe/Machine Learning.md",
-    "Uczenie Maszynowe/enthropy.md",
     "Uczenie Maszynowe/CNN.md",
-    "Uczenie Maszynowe/ReLU.md",
-    "Uczenie Maszynowe/activation function.md",
-    "Uczenie Maszynowe/MSE.md",
     "Uczenie Maszynowe/assets/activation-function.png",
-    "Uczenie Maszynowe/neuron.md",
     "Uczenie Maszynowe/assets/backpropagation gradient.png",
-    "convolution netro.md",
     "Uczenie Maszynowe/assets/neural network model.png",
     "Uczenie Maszynowe/assets/sigmoid, tanh.png",
     "assets/Pasted image 20240607133327.png",
