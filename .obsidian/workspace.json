@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dropout.md",
+                "file": "network training.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dropout.md",
+                "file": "network training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dropout.md",
+                "file": "network training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dropout.md",
+                "file": "network training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dropout.md"
+                "file": "network training.md"
               }
             }
           }
@@ -190,15 +190,17 @@
   },
   "active": "402d4b23fcb55926",
   "lastOpenFiles": [
-    "Uczenie Maszynowe/batchnorm.md",
-    "dropout.md",
     "Uczenie Maszynowe/neural network.md",
+    "network training.md",
+    "Uczenie Maszynowe/backpropagation.md",
+    "Uczenie Maszynowe/dropout.md",
+    "Uczenie Maszynowe/ReLU.md",
+    "Uczenie Maszynowe/batchnorm.md",
     "Uczenie Maszynowe/minibatch.md",
     "Uczenie Maszynowe/enthropy.md",
     "Uczenie Maszynowe/cost function.md",
     "Uczenie Maszynowe/classifiers.md",
     "Uczenie Maszynowe/decision tree.md",
-    "Uczenie Maszynowe/backpropagation.md",
     "Uczenie Maszynowe/ADAM.md",
     "Uczenie Maszynowe/epoch.md",
     "Uczenie Maszynowe/neuron model.md",
@@ -216,8 +218,6 @@
     "Uczenie Maszynowe/random forest.md",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Uczenie Maszynowe/input layer.md",
-    "Uczenie Maszynowe/Machine Learning.md",
-    "Uczenie Maszynowe/CNN.md",
     "Uczenie Maszynowe/assets/activation-function.png",
     "Uczenie Maszynowe/assets/backpropagation gradient.png",
     "Uczenie Maszynowe/assets/neural network model.png",

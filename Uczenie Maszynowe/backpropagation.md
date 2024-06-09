@@ -15,9 +15,7 @@ Wykorzystujemy [[chain rule]], do wyznaczenia kierunku spadku gradientu.
 
 ![[backpropagation gradient.png]]
 
-W batch mode, podajemy cały zbiór uczący, ostateczne aktualizacja jest średnią z wkładu z poszczególnych próbek.
 
-Dla bardzo dużych zbiorów danych: [[minibatch]], [[SGD]]
 
 ### Problem lokalnego minima
 Poruszanie się w kierunku spadku gradientu powoduje utykanie w lokalnych minimach funkcji.
