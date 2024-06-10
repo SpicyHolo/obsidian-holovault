@@ -4,62 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3a9d00ff1777c1a4",
+        "id": "1d47584d534fc38a",
         "type": "tabs",
-        "dimension": 77.06806282722513,
         "children": [
           {
-            "id": "402d4b23fcb55926",
+            "id": "3c0c5f28b97cb58b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uczenie Maszynowe/gradient boosting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8be42a3e2b3894c8",
-        "type": "tabs",
-        "dimension": 22.931937172774873,
-        "children": [
-          {
-            "id": "8947f3fccfbb36b2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Uczenie Maszynowe/gradient boosting.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622443,
-                  "close": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -128,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uczenie Maszynowe/gradient boosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uczenie Maszynowe/gradient boosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Uczenie Maszynowe/gradient boosting.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -188,8 +137,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "402d4b23fcb55926",
+  "active": "3c0c5f28b97cb58b",
   "lastOpenFiles": [
+    "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/epoch.md",
     "Uczenie Maszynowe/classifiers.md",
     "Uczenie Maszynowe/backpropagation.md",
@@ -220,7 +170,6 @@
     "Uczenie Maszynowe/enthropy.md",
     "Uczenie Maszynowe/decision tree.md",
     "Uczenie Maszynowe/ADAM.md",
-    "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/hidden layer.md",
     "obsidian-holovault",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
