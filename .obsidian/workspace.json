@@ -11,8 +11,12 @@
             "id": "3c0c5f28b97cb58b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Systemy Wizyjne/SIFT detector.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Systemy Wizyjne/SIFT detector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Systemy Wizyjne/SIFT detector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Systemy Wizyjne/SIFT detector.md"
+              }
             }
           }
         ]
@@ -139,6 +147,8 @@
   },
   "active": "3c0c5f28b97cb58b",
   "lastOpenFiles": [
+    "Systemy Wizyjne/assets/example_scale_space.png",
+    "Systemy Wizyjne/assets/scale space.png",
     "Systemy Wizyjne/SIFT detector.md",
     "Systemy Wizyjne/feature detectors.md",
     "Systemy Wizyjne/Sobel mask.md",
@@ -174,10 +184,8 @@
     "Uczenie Maszynowe/assets/RNN-ML.png",
     "Uczenie Maszynowe/assets/rnn-1L.png",
     "Uczenie Maszynowe/neural network.md",
-    "Uczenie Maszynowe/neuron model.md",
     "obsidian-holovault",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
-    "Uczenie Maszynowe/assets/activation-function.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "assets",
