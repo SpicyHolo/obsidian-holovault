@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md",
+                "file": "FAST detector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md",
+                "file": "FAST detector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md",
+                "file": "FAST detector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md"
+                "file": "FAST detector.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "3c0c5f28b97cb58b",
   "lastOpenFiles": [
-    "Systemy Wizyjne/Canny algorithm.md",
     "Systemy Wizyjne/feature detectors.md",
+    "FAST detector.md",
+    "Systemy Wizyjne/Harris detector.md",
+    "Systemy Wizyjne/Canny algorithm.md",
     "Systemy Wizyjne/Sobel mask.md",
     "2024-06-16.md",
     "Systemy Wizyjne/assets/canny_th.png",
@@ -181,8 +183,6 @@
     "Uczenie Maszynowe/neural network.md",
     "Uczenie Maszynowe/neuron model.md",
     "Uczenie Maszynowe/network training.md",
-    "Uczenie Maszynowe/dropout.md",
-    "Uczenie Maszynowe/ReLU.md",
     "obsidian-holovault",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Uczenie Maszynowe/assets/activation-function.png",
