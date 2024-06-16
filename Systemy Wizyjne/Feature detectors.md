@@ -7,6 +7,8 @@ Detektory cech obrazowych, służą do wykrywania charakterystycznych cech na ob
 ### Typowe detektory obrazowe
 - W oparciu o funkcje autokorelacji -- [[Harris detector]]
 - Szybki detektor -- [[FAST detector]]
+- Skalowo-inwariantny -- [[SIFT detector]]
+- 
 ### Deskryptory cech obrazowych [[feature descriptors]] 
 W następnej kolejności, wykorzystuje się *deskryptory cech* do opisu cechy w oparciu o charakterystykę sąsiedztwa.
 
