@@ -20,6 +20,10 @@ $$
 M(x, y) = \sqrt{M_x(x, y)^2 + M_y(x, y)^2}
 $$
 $$
-\theta(x, y) = \arctan \left (\displaystyle{\frac{M_y(x, y)}{M_x(x, y)}} \right)
+\theta(x, y) = \arctan \left( \displaystyle{\frac{M_y(x, y)}{M_x(x, y)}} \right)
 
 $$
+### Wizualizacja kierunku gradientu
+
+![[image_gradient.png]]
+#image_processing #feature_detection #calculus
