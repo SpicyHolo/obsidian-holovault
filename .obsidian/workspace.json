@@ -11,8 +11,12 @@
             "id": "3c0c5f28b97cb58b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sobel mask.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sobel mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sobel mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sobel mask.md"
+              }
             }
           }
         ]
@@ -139,6 +147,14 @@
   },
   "active": "3c0c5f28b97cb58b",
   "lastOpenFiles": [
+    "Canny algorithm.md",
+    "sobel mask.md",
+    "[sobel mask.md",
+    "Systemy Wizyjne/Feature detectors.md",
+    "Uczenie Maszynowe/N-beats-fc-stack.png",
+    "Systemy Wizyjne",
+    "assets/Pasted image 20240610001850.png",
+    "Uczenie Maszynowe/tuning classifiers.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/epoch.md",
     "Uczenie Maszynowe/classifiers.md",
@@ -150,14 +166,11 @@
     "Uczenie Maszynowe/regression.md",
     "Uczenie Maszynowe/nonlinear regression.md",
     "Uczenie Maszynowe/cost function.md",
-    "tuning classifiers.md",
     "Uczenie Maszynowe/RNN.md",
     "Uczenie Maszynowe/ROCKET.md",
     "Uczenie Maszynowe/assets/1D convolution.png",
     "Uczenie Maszynowe/time series analysis.md",
     "Uczenie Maszynowe/N-BEATS.md",
-    "assets/N-beats-fc-stack.png",
-    "assets/Pasted image 20240610001850.png",
     "Uczenie Maszynowe/assets/N-BEATS.png",
     "Uczenie Maszynowe/assets/RNN-ML.png",
     "Uczenie Maszynowe/assets/rnn-1L.png",
@@ -167,10 +180,6 @@
     "Uczenie Maszynowe/dropout.md",
     "Uczenie Maszynowe/ReLU.md",
     "Uczenie Maszynowe/minibatch.md",
-    "Uczenie Maszynowe/enthropy.md",
-    "Uczenie Maszynowe/decision tree.md",
-    "Uczenie Maszynowe/ADAM.md",
-    "Uczenie Maszynowe/hidden layer.md",
     "obsidian-holovault",
     "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Uczenie Maszynowe/assets/activation-function.png",
