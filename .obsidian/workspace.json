@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemy Wizyjne/SIFT detector.md",
+                "file": "Systemy Wizyjne/feature detectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemy Wizyjne/SIFT detector.md",
+                "file": "Systemy Wizyjne/feature detectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemy Wizyjne/SIFT detector.md",
+                "file": "Systemy Wizyjne/feature detectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemy Wizyjne/SIFT detector.md"
+                "file": "Systemy Wizyjne/feature detectors.md"
               }
             }
           }
@@ -147,14 +147,15 @@
   },
   "active": "3c0c5f28b97cb58b",
   "lastOpenFiles": [
+    "Systemy Wizyjne/FAST detector.md",
+    "Systemy Wizyjne/Canny algorithm.md",
+    "Systemy Wizyjne/Harris detector.md",
+    "Systemy Wizyjne/SIFT detector.md",
+    "Systemy Wizyjne/Sobel mask.md",
+    "Systemy Wizyjne/feature detectors.md",
+    "Systemy Wizyjne/SIFT descriptor.md",
     "Systemy Wizyjne/assets/example_scale_space.png",
     "Systemy Wizyjne/assets/scale space.png",
-    "Systemy Wizyjne/SIFT detector.md",
-    "Systemy Wizyjne/feature detectors.md",
-    "Systemy Wizyjne/Sobel mask.md",
-    "Systemy Wizyjne/FAST detector.md",
-    "Systemy Wizyjne/Harris detector.md",
-    "Systemy Wizyjne/Canny algorithm.md",
     "2024-06-16.md",
     "Systemy Wizyjne/assets/canny_th.png",
     "Systemy Wizyjne/assets",
@@ -185,7 +186,6 @@
     "Uczenie Maszynowe/assets/rnn-1L.png",
     "Uczenie Maszynowe/neural network.md",
     "obsidian-holovault",
-    "Uczenie Maszynowe/assets/Pasted image 20240607154519.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "assets",

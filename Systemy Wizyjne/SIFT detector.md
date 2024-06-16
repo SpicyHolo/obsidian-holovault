@@ -39,6 +39,6 @@ $$
 - Konstruujemy [[histogram]] orientacji gradientów ważonych modułami gradientów (36 kubełków).
 - Najliczniej reprezentowana orientacja wybierana jest jako orientacja cechy.
 
-#
+### Deskryptor SIFT [[SIFT descriptor]]
 
 #image_processing #feature_detection 
