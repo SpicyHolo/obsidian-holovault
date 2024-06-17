@@ -26,7 +26,7 @@ $$
 q(t) = C - \frac{1}{2} \dot{q}^2
 $$
 #### Wykres sterowania
-![[doublei-integrator-controller.png]]
+![[double-integrator-controller.png]]
 
 
 
