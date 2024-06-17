@@ -23,8 +23,12 @@
             "id": "6d895880bba3166c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Teoria Sterowania w Robotyce/dynamical system.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md",
+                "file": "Teoria Sterowania w Robotyce/dynamical system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md",
+                "file": "Teoria Sterowania w Robotyce/dynamical system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemy Wizyjne/feature detectors.md"
+                "file": "Teoria Sterowania w Robotyce/dynamical system.md"
               }
             }
           }
@@ -156,6 +160,7 @@
   },
   "active": "6d895880bba3166c",
   "lastOpenFiles": [
+    "Teoria Sterowania w Robotyce/dynamical system.md",
     "Uczenie Maszynowe/scoring ML.md",
     "Teoria Sterowania w Robotyce/assets",
     "Teoria Sterowania w Robotyce",
@@ -195,7 +200,6 @@
     "Uczenie Maszynowe/nonlinear regression.md",
     "Uczenie Maszynowe/cost function.md",
     "Uczenie Maszynowe/RNN.md",
-    "Uczenie Maszynowe/ROCKET.md",
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",
