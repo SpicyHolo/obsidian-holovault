@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/dynamical system.md",
+                "file": "Teoria Sterowania w Robotyce/physical pendulum.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stability of dynamical system.md",
+                "file": "Teoria Sterowania w Robotyce/physical pendulum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stability of dynamical system.md",
+                "file": "Teoria Sterowania w Robotyce/physical pendulum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stability of dynamical system.md"
+                "file": "Teoria Sterowania w Robotyce/physical pendulum.md"
               }
             }
           }
@@ -182,16 +181,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a2ef3a2ebae624",
+  "active": "6d895880bba3166c",
   "lastOpenFiles": [
-    "asymptotic stability.md",
-    "stability of dynamical system.md",
-    "Teoria Sterowania w Robotyce/controllability.md",
+    "Teoria Sterowania w Robotyce/assets/physical pendulum, overdamped.png",
+    "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Teoria Sterowania w Robotyce/dynamical system.md",
+    "Teoria Sterowania w Robotyce/controllability.md",
+    "stability of dynamical system.md",
     "Teoria Sterowania w Robotyce/nonlinear system.md",
+    "assets/lapunov.png",
+    "asymptotic stability.md",
     "Teoria Sterowania w Robotyce/physical pendulum.md",
     "Teoria Sterowania w Robotyce/control.md",
-    "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Teoria Sterowania w Robotyce/second-order system.md",
     "Systemy Wizyjne/feature detectors.md",
     "Uczenie Maszynowe/scoring ML.md",
@@ -216,14 +217,12 @@
     "Systemy Wizyjne/assets/scale space.png",
     "2024-06-16.md",
     "Systemy Wizyjne/assets",
-    "Systemy Wizyjne/assets/image_gradient.png",
     "[sobel mask.md",
     "Systemy Wizyjne",
     "Uczenie Maszynowe/tuning classifiers.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/epoch.md",
     "Uczenie Maszynowe/classifiers.md",
-    "Uczenie Maszynowe/backpropagation.md",
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",
