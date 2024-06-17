@@ -23,12 +23,8 @@
             "id": "6d895880bba3166c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SW.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SW.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,28 +152,31 @@
   },
   "active": "6d895880bba3166c",
   "lastOpenFiles": [
+    "Uczenie Maszynowe/scoring ML.md",
+    "Teoria Sterowania w Robotyce/assets",
+    "Teoria Sterowania w Robotyce",
+    "Uczenie Maszynowe/SGD.md",
+    "Systemy Wizyjne/assets/canny_th.png",
     "assets/Pasted image 20240617001535.png",
-    "assets/Pasted image 20240617001342.png",
-    "assets/Pasted image 20240617000923.png",
+    "assets/Pasted image 20240617000532.png",
+    "SW.md",
+    "Systemy Wizyjne/assets/example_scale_space.png",
     "assets/Pasted image 20240617000648.png",
     "assets/Pasted image 20240617000534.png",
-    "assets/Pasted image 20240617000532.png",
+    "assets/Pasted image 20240617001342.png",
+    "assets/Pasted image 20240617000923.png",
     "Systemy Wizyjne/feature detectors.md",
-    "SW.md",
     "Systemy Wizyjne/FAST detector.md",
     "Systemy Wizyjne/Canny algorithm.md",
     "Systemy Wizyjne/Harris detector.md",
     "Systemy Wizyjne/SIFT detector.md",
     "Systemy Wizyjne/Sobel mask.md",
     "Systemy Wizyjne/SIFT descriptor.md",
-    "Systemy Wizyjne/assets/example_scale_space.png",
     "Systemy Wizyjne/assets/scale space.png",
     "2024-06-16.md",
-    "Systemy Wizyjne/assets/canny_th.png",
     "Systemy Wizyjne/assets",
     "Systemy Wizyjne/assets/image_gradient.png",
     "[sobel mask.md",
-    "Uczenie Maszynowe/N-beats-fc-stack.png",
     "Systemy Wizyjne",
     "Uczenie Maszynowe/tuning classifiers.md",
     "Uczenie Maszynowe/gradient boosting.md",
@@ -197,7 +192,6 @@
     "Uczenie Maszynowe/cost function.md",
     "Uczenie Maszynowe/RNN.md",
     "Uczenie Maszynowe/ROCKET.md",
-    "Uczenie Maszynowe/time series analysis.md",
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",
