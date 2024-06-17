@@ -35,6 +35,10 @@ $$
 $$
 s[n+1] = f(s[n], a[n])
 $$
+#### Równanie Bellmana [[Bellman equation]]
+$$
+J^*(s) = \min_a[l(s, a) + J^*(f(s, a))]
+$$
 
 #### Optymalna polityka sterowania
 $$

@@ -34,6 +34,25 @@ $$
 $$
 #TODO ???
 
-## Funkcja J*
+$$J^*(x[n+1]) \approx J^*(x[n]) + h\frac{dJ^*}{dt}$$
+z zasady łańcuchowej (chain rule)
+$$\frac{dJ}{dt} = \frac{dJ}{dx} \cdot \frac{dx}{dt}$$
+Wracając do równania wyżej
+$$
+J^*(x[n]) + h\frac{dJ^*}{dt} = J^*(x[n]) + h \frac{\partial J}{\partial x} f_c(x, u)
+$$
 
-$J^*(x[n+1]) \approx J^*(x[n]) + h\frac{dJ}{}
+gdzie $f_c(x, u) = \dot{x}$.
+
+## Optymalne sterowanie
+Wykorzystując pomost, oraz *równanie Bellmana* ([[Bellman equation]])
+$$
+J^*(s) = \min_a[l(s, a) + J^*(f(s, a))]
+$$
+Możemy wyznaczyć warunek optymalności:
+$$
+J^*(x[n]) = \min_u[l_c(x, u)h + J^*(x[n]) + h\frac{\partial J^*}{\partial x}f_c(x, u)]
+$$
+$$
+O = h \min_u[l_c(x, u)+ ]
+$$
