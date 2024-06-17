@@ -80,7 +80,7 @@ $$
 2\sqrt{3}\dot{q} && 2q
 \end{bmatrix}
 $$
-Z równania *HJB*
+#### Z równania *HJB*
 $$
 (q^2 + \dot{q}^2 + u^2) + 
 \begin{bmatrix}
@@ -95,8 +95,14 @@ $$
 $$
 \arg \min_u [u^2 + (2q + 2\sqrt{3})u]
 $$
-Szukamy minimum funkcji:
+#### Szukamy minimum funkcji:
 $$
+f'(u) = 2u + 2q + 2\sqrt{3}\dot{q}
+$$
+#### Widać, że $u^*$ minimalizuje funkcję.
 
-$$
+#### Patrzymy czy: $J^*(u_{min}) = 0$
+
+
+
 

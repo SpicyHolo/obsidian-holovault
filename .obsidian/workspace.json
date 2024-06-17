@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/continuous dynamic programming.md",
+                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/continuous dynamic programming.md",
+                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/continuous dynamic programming.md",
+                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/continuous dynamic programming.md"
+                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md"
               }
             }
           }
@@ -147,20 +147,20 @@
   },
   "active": "d45a8c32a94f4f69",
   "lastOpenFiles": [
-    "Teoria Sterowania w Robotyce/double integrator.md",
+    "Teoria Sterowania w Robotyce/linear system.md",
+    "Teoria Sterowania w Robotyce/dynamical system.md",
     "Teoria Sterowania w Robotyce/continuous dynamic programming.md",
+    "Teoria Sterowania w Robotyce/double integrator.md",
     "Hamilton-Jacobi-Bellman equation.md",
     "Teoria Sterowania w Robotyce/Bellman equation.md",
     "Teoria Sterowania w Robotyce/control-affine system.md",
     "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
     "Teoria Sterowania w Robotyce/assets/double-integrator-controller.png",
-    "Teoria Sterowania w Robotyce/dynamical system.md",
     "Teoria Sterowania w Robotyce/asymptotic stability.md",
     "Teoria Sterowania w Robotyce/nonlinear system.md",
     "Teoria Sterowania w Robotyce/stability of dynamical system.md",
     "Teoria Sterowania w Robotyce/controllability.md",
     "Teoria Sterowania w Robotyce/physical pendulum.md",
-    "Teoria Sterowania w Robotyce/linear system.md",
     "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Teoria Sterowania w Robotyce/second-order system.md",
     "Teoria Sterowania w Robotyce/assets/physical-pendulum-phase-picture.png",
