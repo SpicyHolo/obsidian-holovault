@@ -10,10 +10,10 @@ L = \int^\infty_0 l_c\left(x(t), u(t)\right)dt
 $$
 #### Optymalność
 $$
-O = \min_u \left[l_c(x, u) + \frac{\partial J^*}{\partial x} f_c(x, u) \right]
+0 = \min_u \left[l_c(x, u) + \frac{\partial J^*}{\partial x} f_c(x, u) \right]
 $$
 $$
-\Pi^* = arg \min_u O
+\Pi^* = arg \min_u [\;\;]
 $$
 *Widoczna jest analogia do systemu dyskretnego.*
 
@@ -54,5 +54,49 @@ $$
 J^*(x[n]) = \min_u[l_c(x, u)h + J^*(x[n]) + h\frac{\partial J^*}{\partial x}f_c(x, u)]
 $$
 $$
-O = h \min_u[l_c(x, u)+ ]
+0 = h \min_u[l_c(x, u)+ h \frac{\partial J^*}{\partial x}f_c(x, u)]
 $$
+#TODO na pewno 0 ? nie O?
+Znane również jako: [[Hamilton-Jacobi-Bellman equation]]
+
+$$
+u^* = \arg \min_u (HJB)
+$$
+$$l_c(x, u^*) = \frac{\partial J^*}{\partial u}f_c(x, u^*)$$
+$$\frac{dJ^*}{dt} = -l_c(x, u^*)$$
+#### Jeżeli $J, u$ spełniają HJB, to są optymalne.
+## Przykład: podwójny integrator ([[double integrator]])
+
+$\ddot{q} = u, \: l_c(q, \dot{q}, u) = q^2 + \dot{q}^2 + u^2$
+
+$u^* = -q - \sqrt{3}\dot{q}$
+
+$J^* = \sqrt{3} q^2 + 2q\dot{q} + \sqrt{3}\dot{q}^2$
+
+$$
+\frac{\partial J^*}{\partial x} = 
+\begin{bmatrix}
+2\sqrt{3}q && 2\dot{q} \\
+2\sqrt{3}\dot{q} && 2q
+\end{bmatrix}
+$$
+Z równania *HJB*
+$$
+(q^2 + \dot{q}^2 + u^2) + 
+\begin{bmatrix}
+2\sqrt{3}q && 2\dot{q} \\
+2\sqrt{3}\dot{q} && 2q
+\end{bmatrix}
+\begin{bmatrix}
+\dot{q} \\
+u
+\end{bmatrix}
+$$
+$$
+\arg \min_u [u^2 + (2q + 2\sqrt{3})u]
+$$
+Szukamy minimum funkcji:
+$$
+
+$$
+
