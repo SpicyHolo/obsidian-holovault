@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Teoria Sterowania w Robotyce/double integrator.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -196,6 +196,7 @@
   },
   "active": "db2e7955ffdcee5f",
   "lastOpenFiles": [
+    "Teoria Sterowania w Robotyce/assets/doublei-integrator-controller.png",
     "Teoria Sterowania w Robotyce/nonlinear system.md",
     "Teoria Sterowania w Robotyce/linear system.md",
     "Teoria Sterowania w Robotyce/dynamical system.md",
@@ -235,7 +236,6 @@
     "Systemy Wizyjne",
     "Uczenie Maszynowe/tuning classifiers.md",
     "Uczenie Maszynowe/gradient boosting.md",
-    "Uczenie Maszynowe/epoch.md",
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",
