@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 9175295
       }
+    },
+    {
+      "query": "path:\"Teoria Sterowania w Robotyce\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.71875,
   "linkDistance": 248,
-  "scale": 0.18462326225859985,
-  "close": false
+  "scale": 0.6750221792753781,
+  "close": true
 }

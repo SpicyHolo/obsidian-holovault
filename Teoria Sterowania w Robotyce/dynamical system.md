@@ -38,6 +38,8 @@ $$
 \ddot{q} = M^{-1}(q)\cdot
 \left[ B\cdot\tau - C\cdot\dot{q} - G \right]
 $$
-$M(q)$ zawiera masy, $C(q, \dot{q}])$ siły Coriollisa, $G(q)
+$M(q)$ zawiera masy, $C(q, \dot{q}])$ siły Coriollisa, $G(q)$ siły grawitacji, $B$ wpływ sterowania.
+
+
 
 #control_theory
