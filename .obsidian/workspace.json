@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/physical pendulum.md",
+                "file": "Teoria Sterowania w Robotyce/asymptotic stability.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stability of dynamical system.md",
+                "file": "Teoria Sterowania w Robotyce/stability of dynamical system.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db2e7955ffdcee5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria Sterowania w Robotyce/double integrator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/physical pendulum.md",
+                "file": "Teoria Sterowania w Robotyce/double integrator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/physical pendulum.md",
+                "file": "Teoria Sterowania w Robotyce/double integrator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/physical pendulum.md"
+                "file": "Teoria Sterowania w Robotyce/double integrator.md"
               }
             }
           }
@@ -181,19 +194,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d895880bba3166c",
+  "active": "db2e7955ffdcee5f",
   "lastOpenFiles": [
-    "Teoria Sterowania w Robotyce/assets/physical pendulum, overdamped.png",
-    "Teoria Sterowania w Robotyce/robot dynamics.md",
-    "Teoria Sterowania w Robotyce/dynamical system.md",
-    "Teoria Sterowania w Robotyce/controllability.md",
-    "stability of dynamical system.md",
     "Teoria Sterowania w Robotyce/nonlinear system.md",
-    "assets/lapunov.png",
-    "asymptotic stability.md",
+    "Teoria Sterowania w Robotyce/linear system.md",
+    "Teoria Sterowania w Robotyce/dynamical system.md",
+    "Teoria Sterowania w Robotyce/asymptotic stability.md",
+    "Teoria Sterowania w Robotyce/controllability.md",
     "Teoria Sterowania w Robotyce/physical pendulum.md",
-    "Teoria Sterowania w Robotyce/control.md",
+    "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Teoria Sterowania w Robotyce/second-order system.md",
+    "Teoria Sterowania w Robotyce/stability of dynamical system.md",
+    "Teoria Sterowania w Robotyce/double integrator.md",
+    "Teoria Sterowania w Robotyce/assets/physical-pendulum-phase-picture.png",
+    "Teoria Sterowania w Robotyce/assets/physical pendulum, overdamped.png",
+    "assets/lapunov.png",
+    "Teoria Sterowania w Robotyce/control.md",
     "Systemy Wizyjne/feature detectors.md",
     "Uczenie Maszynowe/scoring ML.md",
     "Teoria Sterowania w Robotyce/assets",
@@ -207,14 +223,12 @@
     "assets/Pasted image 20240617000648.png",
     "assets/Pasted image 20240617000534.png",
     "assets/Pasted image 20240617001342.png",
-    "assets/Pasted image 20240617000923.png",
     "Systemy Wizyjne/FAST detector.md",
     "Systemy Wizyjne/Canny algorithm.md",
     "Systemy Wizyjne/Harris detector.md",
     "Systemy Wizyjne/SIFT detector.md",
     "Systemy Wizyjne/Sobel mask.md",
     "Systemy Wizyjne/SIFT descriptor.md",
-    "Systemy Wizyjne/assets/scale space.png",
     "2024-06-16.md",
     "Systemy Wizyjne/assets",
     "[sobel mask.md",
@@ -222,7 +236,6 @@
     "Uczenie Maszynowe/tuning classifiers.md",
     "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/epoch.md",
-    "Uczenie Maszynowe/classifiers.md",
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -26,6 +26,15 @@ Specjalna klasa systemów nieliniowych, gdzie system jest liniowo zależny od st
 $$
 \ddot{q} = f_1(q, \dot{q}) + f_2(q, \dot{q})\cdot u
 $$
+## Układ liniowy ([[linear system]])
+Bardzo uproszczony model systemu dynamicznego
+$$
+\dot{x} = Ax+Bu
+$$
+$$
+y = Cx+Du
+$$
+
 ### Sterowalność układu afinicznego [[controllability]]
 Układ afiniczny jest sterowalny, gdy $f_2(q, \dot{q})$ jest *pełnego rzędu wierszowego*.
 

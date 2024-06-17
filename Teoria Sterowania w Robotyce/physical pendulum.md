@@ -37,7 +37,7 @@ $$
 $$
 Dla $b = 0, u = 0 \implies \ddot{\theta} = \frac{g}{l} \sin(\theta)$
 
+![[physical-pendulum-phase-picture.png]]
 
 
-
-
+#control_theory 

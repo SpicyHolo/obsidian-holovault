@@ -26,3 +26,4 @@ $$
 \lVert x(t) - x^* \lVert < C \cdot e^{-at}, \; \text{for } (C, a > 0)
 }
 $$
+#control_theory 

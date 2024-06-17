@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:\"Teoria Sterowania w Robotyce\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.71875,
   "linkDistance": 248,
-  "scale": 0.9773871647133515,
-  "close": true
+  "scale": 0.466196977988058,
+  "close": false
 }
