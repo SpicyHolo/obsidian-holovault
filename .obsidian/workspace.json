@@ -20,19 +20,43 @@
             }
           },
           {
+            "id": "7151611dfd83552f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria Sterowania w Robotyce/controllability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a2ef3a2ebae624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stability of dynamical system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "982fdea28ab164ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physical pendulum.md",
+                "file": "Teoria Sterowania w Robotyce/nonlinear system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physical pendulum.md",
+                "file": "stability of dynamical system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physical pendulum.md",
+                "file": "stability of dynamical system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physical pendulum.md"
+                "file": "stability of dynamical system.md"
               }
             }
           }
@@ -158,15 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "982fdea28ab164ae",
+  "active": "00a2ef3a2ebae624",
   "lastOpenFiles": [
-    "Teoria Sterowania w Robotyce/control.md",
+    "asymptotic stability.md",
+    "stability of dynamical system.md",
+    "Teoria Sterowania w Robotyce/controllability.md",
     "Teoria Sterowania w Robotyce/dynamical system.md",
-    "physical pendulum.md",
+    "Teoria Sterowania w Robotyce/nonlinear system.md",
+    "Teoria Sterowania w Robotyce/physical pendulum.md",
+    "Teoria Sterowania w Robotyce/control.md",
     "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Teoria Sterowania w Robotyce/second-order system.md",
     "Systemy Wizyjne/feature detectors.md",
-    "Teoria Sterowania w Robotyce/nonlinear system.md",
     "Uczenie Maszynowe/scoring ML.md",
     "Teoria Sterowania w Robotyce/assets",
     "Teoria Sterowania w Robotyce",
@@ -197,9 +224,6 @@
     "Uczenie Maszynowe/epoch.md",
     "Uczenie Maszynowe/classifiers.md",
     "Uczenie Maszynowe/backpropagation.md",
-    "Uczenie Maszynowe/batchnorm.md",
-    "Uczenie Maszynowe/bias-variance tradeoff.md",
-    "Uczenie Maszynowe/DBSCAN.md",
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",
