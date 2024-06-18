@@ -56,8 +56,12 @@ $$
 $$
 0 = h \min_u[l_c(x, u)+ h \frac{\partial J^*}{\partial x}f_c(x, u)]
 $$
-#TODO na pewno 0 ? nie O?
-Znane również jako: [[Hamilton-Jacobi-Bellman equation]]
+I możemy pozbyć się h, jako stałej:
+$$
+0 = \min_u[l_c(x, u)+ \frac{\partial J^*}{\partial x}f_c(x, u)]
+$$
+
+Otrzymalismy równanie: [[Hamilton-Jacobi-Bellman equation]]
 
 $$
 u^* = \arg \min_u (HJB)
@@ -101,7 +105,11 @@ f'(u) = 2u + 2q + 2\sqrt{3}\dot{q}
 $$
 #### Widać, że $u^*$ minimalizuje funkcję.
 
-#### Patrzymy czy: $J^*(u_{min}) = 0$
+#### Sprawdzamy czy: $J^*(u_{min}) = 0$
+
+(Tutaj można analizować wektory własne funkcji kosztu $J^*$)
+
+#control_theory #optimal_control #dynamic_programming
 
 
 
