@@ -66,7 +66,7 @@ Otrzymalismy równanie: [[Hamilton-Jacobi-Bellman equation]]
 $$
 u^* = \arg \min_u (HJB)
 $$
-$$l_c(x, u^*) = \frac{\partial J^*}{\partial u}f_c(x, u^*)$$
+$$l_c(x, u^*) = \frac{\partial J^*}{\partial x}f_c(x, u^*)$$
 $$\frac{dJ^*}{dt} = -l_c(x, u^*)$$
 #### Jeżeli $J, u$ spełniają HJB, to są optymalne.
 ## Przykład: podwójny integrator ([[double integrator]])
@@ -80,16 +80,14 @@ $J^* = \sqrt{3} q^2 + 2q\dot{q} + \sqrt{3}\dot{q}^2$
 $$
 \frac{\partial J^*}{\partial x} = 
 \begin{bmatrix}
-2\sqrt{3}q && 2\dot{q} \\
-2\sqrt{3}\dot{q} && 2q
+2\sqrt{3}q && 2\dot{q}
 \end{bmatrix}
 $$
 #### Z równania *HJB*
 $$
 (q^2 + \dot{q}^2 + u^2) + 
 \begin{bmatrix}
-2\sqrt{3}q && 2\dot{q} \\
-2\sqrt{3}\dot{q} && 2q
+2\sqrt{3}q && 2\dot{q} 
 \end{bmatrix}
 \begin{bmatrix}
 \dot{q} \\
@@ -97,7 +95,7 @@ u
 \end{bmatrix}
 $$
 $$
-\arg \min_u [u^2 + (2q + 2\sqrt{3})u]
+u^* = \arg \min_u [u^2 + (2q + 2\sqrt{3})u]
 $$
 #### Szukamy minimum funkcji:
 $$
