@@ -6,7 +6,11 @@ Metody przeszukujące graf połączeń w poszukiwaniu (optymalnej) ścieżki ł�
 ![[path connection graph example.png]]
 ### Podstawowe algorytmy przeszukiwania
 ####  Breadth-First Search ([[BFS]])
+
 ![[BFS.gif]]
 #### Depth-First search ([[DFS]]) 
 ![[DFS.gif]]
-### Algoriytmn Dijkstry ([[Dijkstra algorihtm]])
+### Algorytm Dijkstry ([[Dijkstra])
+### Algorytm $A^*$ [[A-star]]
+
+

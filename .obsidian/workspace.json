@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dijkstra algorihtm.md",
+                "file": "A-star.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/DFS.md",
+                "file": "Planowanie ruchu/BFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dijkstra algorihtm.md",
+                "file": "A-star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dijkstra algorihtm.md",
+                "file": "A-star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dijkstra algorihtm.md"
+                "file": "A-star.md"
               }
             }
           }
@@ -160,10 +160,14 @@
   "active": "d600b5f9a1c3b9ad",
   "lastOpenFiles": [
     "Planowanie ruchu/graph path finding algs.md",
+    "A-star.md",
+    "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
     "Planowanie ruchu/BFS.md",
-    "Planowanie ruchu/DOF.md",
     "Planowanie ruchu/DFS.md",
-    "Dijkstra algorihtm.md",
+    "Planowanie ruchu/Dijkstra algorithm.md",
+    "assets/W3_SS_Dijkstra_1 1.webp",
+    "Planowanie ruchu/priority queue.md",
+    "Planowanie ruchu/DOF.md",
     "Planowanie ruchu/assets/path connection graph example.png",
     "Planowanie ruchu/assets/voronoi diagram examples 1.png",
     "Planowanie ruchu/assets/BFS.gif",
@@ -179,8 +183,6 @@
     "Planowanie ruchu/assets/voronoi diagram.png",
     "Planowanie ruchu/assets/voronoi diagram path.png",
     "Planowanie ruchu/visibility graph.md",
-    "Planowanie ruchu/assets/visibility graph path.png",
-    "Planowanie ruchu/assets/visibility graph time complexity.png",
     "Planowanie ruchu/TSDF.md",
     "Planowanie ruchu/actuators.md",
     "Planowanie ruchu/graph c.md",
@@ -194,8 +196,6 @@
     "Planowanie ruchu/motion constraints.md",
     "Planowanie ruchu/dynamic stability.md",
     "Planowanie ruchu/cost map.md",
-    "Planowanie ruchu/collision detection.md",
-    "Planowanie ruchu/Triangle-to-triangle.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",
