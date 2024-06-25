@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/Fast Fusion.md",
+                "file": "Planowanie ruchu/motion planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/Fast Fusion.md",
+                "file": "Planowanie ruchu/motion planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/Fast Fusion.md",
+                "file": "Planowanie ruchu/motion planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/Fast Fusion.md"
+                "file": "Planowanie ruchu/motion planning.md"
               }
             }
           }
@@ -147,10 +147,12 @@
   },
   "active": "d600b5f9a1c3b9ad",
   "lastOpenFiles": [
+    "Teoria Sterowania w Robotyce/robot dynamics.md",
+    "Planowanie ruchu/motion planning.md",
+    "Planowanie ruchu/assets/Pasted image 20240625160521.png",
+    "Planowanie ruchu/Fast Fusion.md",
     "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121634.png",
     "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121430.png",
-    "Planowanie ruchu/motion planning.md",
-    "Planowanie ruchu/Fast Fusion.md",
     "Planowanie ruchu/assets/static stability example.png",
     "Pasted image 20240623203359.png.md",
     "Planowanie ruchu/assets/robot workspace example.png",
@@ -159,8 +161,6 @@
     "Planowanie ruchu/assets/gaussian modelling error.png",
     "Planowanie ruchu/assets/gaussian function approx 2D.png",
     "Planowanie ruchu/assets/gaussian function approx 2.png",
-    "Planowanie ruchu/assets/gaussian function approx.png",
-    "Planowanie ruchu/assets/model complexity comparison 2.png",
     "Planowanie ruchu/robot workspace.md",
     "Planowanie ruchu/static stability.md",
     "Planowanie ruchu/simple collisions.md",
