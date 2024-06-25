@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/sampling-based search algorithms.md",
+                "file": "PRM-star.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/sampling-based search algorithms.md",
+                "file": "PRM-star.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/sampling-based search algorithms.md",
+                "file": "PRM-star.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/sampling-based search algorithms.md"
+                "file": "PRM-star.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "b15ad9b6f062f07b",
   "lastOpenFiles": [
-    "Planowanie ruchu/incremental sampling and searching.md",
+    "assets/PRM-star.png",
     "Planowanie ruchu/sampling-based search algorithms.md",
+    "PRM-star.md",
+    "Planowanie ruchu/incremental sampling and searching.md",
     "Planowanie ruchu/VFH.md",
     "góry.md",
     "Planowanie ruchu/probabilistically complete.md",
@@ -181,8 +183,6 @@
     "Planowanie ruchu/autonomic robots.md",
     "Planowanie ruchu/PRM.md",
     "Planowanie ruchu/DFS.md",
-    "Planowanie ruchu/A-star.md",
-    "Planowanie ruchu/BVH.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
