@@ -1,18 +1,18 @@
 - [ ] ### Ubrania 
-- [ ]  T-Shirt x5
-- [ ]  Koszula flanelowa
-- [ ]  Polar
-- [ ]  Kurtka przeciwwiatrowa
-- [ ]  Spodnie x2
-- [ ]  Majtki x 5
-- [ ]  Skarpetki x5 (+ 2 długie ?)
+- [x]  T-Shirt x5
+- [x]  Koszula flanelowa
+- [x]  Polar
+- [x]  Kurtka przeciwwiatrowa
+- [x]  Spodnie x2
+- [x]  Majtki x 5
+- [x]  Skarpetki x5 (+ 2 długie ?)
 - [ ]  Buty Wysokie
 - [ ]  Buty lekkie
 - [ ]  Buty do jaskini
-- [ ]  Piżama
+- [x]  Piżama
 ### Akcesoria
 - [ ] Chusta buff
-- [ ] Okulary przeciwsłoneczne x2
+- [x] Okulary przeciwsłoneczne x2
 - [ ] Powerbank
 - [ ] Ładowarka + 2 kable
 - [ ] Laptop
@@ -23,7 +23,7 @@
 - [ ] Portfel
 - [ ] Książka
 - [ ] Gry planszowe
-- [ ] Śpiwór + mata
+- [x] Śpiwór + mata
 - [ ] Latarka - czołówka
 ### Jedzenie
 - [ ] Miski, sztućce, nóż, deska, kubki, termos + myjka, płyn do mycia
