@@ -7,4 +7,4 @@
 >Jeżeli istnieje rozwiązanie problemu, to algorytm probabilistyczne kompletny znajdzie rozwiązanie w skończonym czasie i przy ograniczonej liczbie próbek $(<\infty)$.
 >
 
-#### Probabilistic Road Map
+#### Probabilistic Road Map ([[PRM]])

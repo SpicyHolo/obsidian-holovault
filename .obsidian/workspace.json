@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d600b5f9a1c3b9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sampling-based search algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "67eb2f9b0c45cfd3",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21cd5f4825797a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sampling-based search algorithms.md",
+                "file": "PRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sampling-based search algorithms.md",
+                "file": "PRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sampling-based search algorithms.md"
+                "file": "PRM.md"
               }
             }
           }
@@ -157,14 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d600b5f9a1c3b9ad",
+  "active": "21cd5f4825797a4a",
   "lastOpenFiles": [
+    "probabilistically complete.md",
+    "PRM.md",
+    "assets/Pasted image 20240625180056.png",
+    "Planowanie ruchu/sampling-based search algorithms.md",
     "Planowanie ruchu/motion planning.md",
-    "sampling-based search algorithms.md",
-    "Planowanie ruchu/graph-based search algorithms.md",
-    "A-star.md",
-    "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
     "Planowanie ruchu/BFS.md",
+    "map.md",
+    "Planowanie ruchu/graph-based search algorithms.md",
+    "Planowanie ruchu/A-star.md",
+    "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
     "Planowanie ruchu/DFS.md",
     "Planowanie ruchu/Dijkstra algorithm.md",
     "assets/W3_SS_Dijkstra_1 1.webp",
@@ -182,7 +187,6 @@
     "Planowanie ruchu/assets/cell decomposition 1.png",
     "Planowanie ruchu/assets/voronoi diagram examples.png",
     "Planowanie ruchu/assets/voronoi diagram.png",
-    "Planowanie ruchu/assets/voronoi diagram path.png",
     "Planowanie ruchu/visibility graph.md",
     "Planowanie ruchu/TSDF.md",
     "Planowanie ruchu/actuators.md",
@@ -193,9 +197,6 @@
     "Pasted image 20240623203359.png.md",
     "Planowanie ruchu/robot workspace.md",
     "Planowanie ruchu/static stability.md",
-    "Planowanie ruchu/simple collisions.md",
-    "Planowanie ruchu/motion constraints.md",
-    "Planowanie ruchu/dynamic stability.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",

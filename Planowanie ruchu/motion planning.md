@@ -29,4 +29,4 @@ $$
 ### Algorytmy  w planowania ruchu
 - **Dekompozycja mapy do postaci grafu: [[map decomposition algs]]**
 - **Algorytmy szukające ścieżki w grafie:  [[graph-based search algorithms]]**
-- Algorytmy próbkujące przestrzeń: [[sampling-based search algorithms]]
+- **Algorytmy próbkujące przestrzeń:** [[sampling-based search algorithms]]
