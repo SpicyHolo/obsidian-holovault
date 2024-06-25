@@ -1,4 +1,4 @@
-- [ ] ### Ubrania 
+### Ubrania 
 - [x]  T-Shirt x5
 - [x]  Koszula flanelowa
 - [x]  Polar
@@ -18,31 +18,30 @@
 - [ ] Laptop
 - [ ] Słuchawki
 - [ ] Telefon
-- [ ] Aparat + ładowarka
+- [x] Aparat + ładowarka
 - [ ] Tablet
 - [ ] Portfel
 - [ ] Książka
 - [ ] Gry planszowe
 - [x] Śpiwór + mata
-- [ ] Latarka - czołówka
 ### Jedzenie
-- [ ] Miski, sztućce, nóż, deska, kubki, termos + myjka, płyn do mycia
+- [ ] myjka, płyn do mycia
 - [ ] Snacks (batony, musiki, itp...)
 - [ ] Chleb + rzeczy na chleb?, konserwy?
 - [ ] Izotoniki
-- [ ] herbata
+- [x] herbata
 - [ ] pojemniki plastikowe
 ### Kosmetyczne
-- [ ] Żel pod prysznic
+- [x] Żel pod prysznic
 - [ ] Szampon
 - [ ] Szczoteczka + pasta + nić?
 - [ ] Płyn do twarzy + nawilżający + filtr do twarzy
-- [ ] Krem z filtrem SPF50
-- [ ] Dezodorant + perfum
-- [ ] Szczotka / Grzebień
+- [x] Krem z filtrem SPF50
+- [x] Dezodorant + perfum
+- [ ] Szczotka / Grzebień +
 - [ ] Klapki
 - [ ] Ręcznik
 ### Inne
 - [ ] guzik, igła, nitka
 - [ ] paracetamol
-- [ ] 
+-
