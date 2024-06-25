@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/PRM-star.md",
+                "file": "Planowanie ruchu/RRG.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "2f771726f9e1ef66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RRG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RRG.md",
+                "file": "Planowanie ruchu/RRG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RRG.md",
+                "file": "Planowanie ruchu/RRG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RRG.md"
+                "file": "Planowanie ruchu/RRG.md"
               }
             }
           }
@@ -158,15 +153,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f771726f9e1ef66",
+  "active": "b15ad9b6f062f07b",
   "lastOpenFiles": [
-    "assets/Pasted image 20240626004951.png",
     "Planowanie ruchu/sampling-based search algorithms.md",
-    "RRG.md",
+    "Planowanie ruchu/RRT-star.md",
+    "Planowanie ruchu/assets/RRT-star optimality graph.png",
+    "Planowanie ruchu/assets/RRT-star exploring.png",
+    "Planowanie ruchu/RRG.md",
+    "Planowanie ruchu/PRM-star.md",
+    "assets/RRG vs RRT vs RRT-star.png",
+    "assets/RRT vs RRG.png",
+    "assets/Pasted image 20240626004951.png",
     "Planowanie ruchu/graph-based search algorithms.md",
     "Planowanie ruchu/k-d trees.md",
     "Planowanie ruchu/assets/kd trees.png",
-    "Planowanie ruchu/PRM-star.md",
     "Planowanie ruchu/assets/PRM-star.png",
     "Planowanie ruchu/incremental sampling and searching.md",
     "Planowanie ruchu/VFH.md",
@@ -185,17 +185,11 @@
     "Planowanie ruchu/assets/VFH diagram.png",
     "Planowanie ruchu/collision detection.md",
     "Planowanie ruchu/robot map.md",
-    "Planowanie ruchu/assets/Pasted image 20240625191029.png",
-    "Planowanie ruchu/assets/Pasted image 20240625191022.png",
-    "Planowanie ruchu/assets/potential control architecture.png",
-    "Planowanie ruchu/assets/subsumptic architecture.png",
     "Planowanie ruchu/cost map.md",
     "Planowanie ruchu/visibility graph.md",
     "Planowanie ruchu/Voronoi diagram.md",
-    "Planowanie ruchu/assets/hybrid architecture.png",
     "Planowanie ruchu/motion planning.md",
     "Planowanie ruchu/OMPL.md",
-    "Planowanie ruchu/autonomic robots.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
