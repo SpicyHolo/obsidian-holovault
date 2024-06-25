@@ -35,9 +35,11 @@
             "id": "bcef5f1123ae57a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "góry.md",
+                "mode": "source",
+                "source": false
               }
             }
           }

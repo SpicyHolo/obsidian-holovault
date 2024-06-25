@@ -1,4 +1,4 @@
-### Ubrania 
+- [ ] ### Ubrania 
 - [ ]  T-Shirt x5
 - [ ]  Koszula flanelowa
 - [ ]  Polar
