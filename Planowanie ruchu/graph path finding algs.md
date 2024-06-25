@@ -9,3 +9,4 @@ Metody przeszukujące graf połączeń w poszukiwaniu (optymalnej) ścieżki ł�
 ![[BFS.gif]]
 #### Depth-First search ([[DFS]]) 
 ![[DFS.gif]]
+### Algoriytmn Dijkstry ([[Dijkstra algorihtm]])
