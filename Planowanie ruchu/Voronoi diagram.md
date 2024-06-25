@@ -5,7 +5,7 @@ Algorytm tworzący graf połączeń w mapie przeszkód dla robotów.
 
 ![[voronoi diagram.png]]
 ### Inne przykłady
-![[voronoi diagram examples.png]]
+![[Planowanie ruchu/assets/voronoi diagram examples.png]]
 
 >[!IMPORTANT]
 > Metoda zwraca najdłuższą w porównaniu z innymi ścieżke, ale najbezpieczniejszą (daleko od przeszkód).

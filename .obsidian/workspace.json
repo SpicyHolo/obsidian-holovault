@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BFS.md",
+                "file": "Planowanie ruchu/BFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,16 @@
             "id": "67eb2f9b0c45cfd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Planowanie ruchu/DFS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BFS.md",
+                "file": "Planowanie ruchu/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BFS.md",
+                "file": "Planowanie ruchu/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BFS.md"
+                "file": "Planowanie ruchu/DFS.md"
               }
             }
           }
@@ -153,20 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d600b5f9a1c3b9ad",
+  "active": "67eb2f9b0c45cfd3",
   "lastOpenFiles": [
-    "graph path finding algs.md",
-    "BFS.md",
-    "DFS.md",
-    "assets/BFS.gif",
-    "assets/DFS.gif",
-    "assets/Pasted image 20240625164333.png",
+    "Planowanie ruchu/BFS.md",
+    "Planowanie ruchu/DFS.md",
+    "Planowanie ruchu/assets/path connection graph example.png",
+    "Planowanie ruchu/assets/voronoi diagram examples 1.png",
+    "Planowanie ruchu/assets/BFS.gif",
+    "Planowanie ruchu/FCL.md",
+    "Planowanie ruchu/Gaussian mixtures.md",
+    "Planowanie ruchu/graph path finding algs.md",
+    "Planowanie ruchu/assets/DFS.gif",
     "Planowanie ruchu/motion planning.md",
     "Planowanie ruchu/map decomposition algs.md",
     "Planowanie ruchu/Voronoi diagram.md",
-    "cell decomposition.md",
-    "assets/cell decomposition.png",
-    "assets/Pasted image 20240625163828.png",
+    "Planowanie ruchu/cell decomposition.md",
+    "Planowanie ruchu/assets/cell decomposition 1.png",
     "Planowanie ruchu/assets/voronoi diagram examples.png",
     "Planowanie ruchu/assets/voronoi diagram.png",
     "Planowanie ruchu/assets/voronoi diagram path.png",
@@ -188,10 +195,7 @@
     "Planowanie ruchu/cost map.md",
     "Planowanie ruchu/collision detection.md",
     "Planowanie ruchu/Triangle-to-triangle.md",
-    "Planowanie ruchu/Gaussian mixtures.md",
-    "Planowanie ruchu/FCL.md",
     "Planowanie ruchu/BVH.md",
-    "Planowanie ruchu/2D motion constraints.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",

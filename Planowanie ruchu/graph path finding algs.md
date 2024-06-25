@@ -3,7 +3,7 @@ Metody przeszukujące graf połączeń w poszukiwaniu (optymalnej) ścieżki ł�
 ### Interpretacja grafu jako mapy połączeń
 - Komórki są węzłami grafu
 - Mozliwe przejścia, to krawędzie grafu
-![[Pasted image 20240625164333.png]]
+![[path connection graph example.png]]
 ### Podstawowe algorytmy przeszukiwania
 ####  Breadth-First Search ([[BFS]])
 ![[BFS.gif]]
