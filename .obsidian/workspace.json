@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RRT.md",
+                "file": "Planowanie ruchu/RRT.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRM.md",
+                "file": "Planowanie ruchu/motion planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RRT.md",
+                "file": "Planowanie ruchu/motion planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RRT.md",
+                "file": "Planowanie ruchu/motion planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RRT.md"
+                "file": "Planowanie ruchu/motion planning.md"
               }
             }
           }
@@ -157,15 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67eb2f9b0c45cfd3",
+  "active": "21cd5f4825797a4a",
   "lastOpenFiles": [
+    "Planowanie ruchu/graph-based search algorithms.md",
+    "Planowanie ruchu/RRT.md",
+    "kinodynamic planning.md",
+    "Planowanie ruchu/assets/nearest edge.png",
+    "Planowanie ruchu/assets/RRT diagram.png",
+    "Planowanie ruchu/assets/RRT example.png",
+    "Planowanie ruchu/autonomic robots.md",
+    "Planowanie ruchu/assets/PRM example.png",
+    "assets/Pasted image 20240625181826.png",
+    "Planowanie ruchu/assets/incremental search example.png",
     "Planowanie ruchu/sampling-based search algorithms.md",
-    "PRM.md",
-    "RRT.md",
+    "Planowanie ruchu/PRM.md",
     "Planowanie ruchu/DFS.md",
     "Planowanie ruchu/A-star.md",
     "Planowanie ruchu/BVH.md",
-    "Planowanie ruchu/graph-based search algorithms.md",
     "Planowanie ruchu/Voronoi diagram.md",
     "Planowanie ruchu/Dijkstra algorithm.md",
     "Planowanie ruchu/DOF.md",
@@ -173,11 +182,8 @@
     "Planowanie ruchu/map decomposition algs.md",
     "Planowanie ruchu/OctoMap.md",
     "Planowanie ruchu/NDT-OM.md",
-    "incremental sampling and searching.md",
-    "assets/Pasted image 20240625181826.png",
-    "assets/incremental search example.png",
-    "probabilistically complete.md",
-    "assets/Pasted image 20240625180056.png",
+    "Planowanie ruchu/incremental sampling and searching.md",
+    "Planowanie ruchu/probabilistically complete.md",
     "Planowanie ruchu/motion planning.md",
     "map.md",
     "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
@@ -185,16 +191,11 @@
     "Planowanie ruchu/priority queue.md",
     "Planowanie ruchu/assets/path connection graph example.png",
     "Planowanie ruchu/assets/voronoi diagram examples 1.png",
-    "Planowanie ruchu/assets/BFS.gif",
     "Planowanie ruchu/FCL.md",
     "Planowanie ruchu/Gaussian mixtures.md",
-    "Planowanie ruchu/assets/DFS.gif",
     "Planowanie ruchu/cell decomposition.md",
-    "Planowanie ruchu/assets/cell decomposition 1.png",
     "Planowanie ruchu/visibility graph.md",
     "Planowanie ruchu/TSDF.md",
-    "Planowanie ruchu/actuators.md",
-    "Planowanie ruchu/graph c.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",

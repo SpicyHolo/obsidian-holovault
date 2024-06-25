@@ -8,7 +8,7 @@
 *W fazie planowania ruchu:*
 - Znajdź połączenia pomiędzy węzłami $\mathbf{q}_{start}$ i $\mathbf{q}_{goal}$ stosując metody przeszukiwania grafu (BFS, DFS, A-star).
 
-![[Pasted image 20240625180056.png]]
+![[PRM example.png]]
 
 >[!NOTE]
 > Zbudowany graf połączeń można wykorzystać do jednego planowania (single-query) lub do kilku (multi-query)
