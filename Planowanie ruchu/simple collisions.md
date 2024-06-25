@@ -6,13 +6,13 @@ warunek kolizji:
 $$
 d \leq r
 $$
-![[Pasted image 20240623195412.png]]
+![[distance from circle.png]]
 #### sfera-sfera
 warunek kolizj:
 $$
 d \leq r_1 + r_2
 $$
-![[Pasted image 20240623195550.png]]
+![[two circles distance.png]]
 #### punkt - prostokąt
 $$
 ^K\mathbf{p} = ^O\mathbf{K}^{-1} \cdot \;^O\mathbf{p}
@@ -24,14 +24,14 @@ warunek kolizji:
 $$
 \lvert p_x \lvert \leq a \land \lvert p_y \lvert \leq b
 $$
-![[Pasted image 20240623200308.png]]
+![[rectangle distance.png]]
 
 #### Axis-aligned Bounding Boxes ([[ABB]]) 
-![[Pasted image 20240623200614.png]]
+![[ABB.png]]
 
 #### Object-oriented Bounding Boxes ([[OBB]]) 
-![[Pasted image 20240623200629.png]]
+![[OBB.png]]
 #### Discrete Orientation Polytopes ([[k-DOPs]])
-![[Pasted image 20240623200636.png]]
+![[kDOPs.png]]
 
 #robotics #motion_planning 

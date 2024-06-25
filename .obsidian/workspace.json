@@ -11,11 +11,9 @@
             "id": "d45a8c32a94f4f69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
-                "mode": "source",
-                "source": false
+                "file": "Planowanie ruchu/assets/triangle distance.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
+                "file": "Planowanie ruchu/assets/triangle distance.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
+                "file": "Planowanie ruchu/assets/triangle distance.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md"
+                "file": "Planowanie ruchu/assets/triangle distance.png"
               }
             }
           }
@@ -145,46 +143,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d0da801ad426c1",
+  "active": "d45a8c32a94f4f69",
   "lastOpenFiles": [
-    "Teoria Sterowania w Robotyce/linear system.md",
-    "Teoria Sterowania w Robotyce/dynamical system.md",
-    "Teoria Sterowania w Robotyce/continuous dynamic programming.md",
-    "Teoria Sterowania w Robotyce/double integrator.md",
-    "Teoria Sterowania w Robotyce/Hamilton-Jacobi-Bellman equation.md",
-    "Teoria Sterowania w Robotyce/Bellman equation.md",
-    "Teoria Sterowania w Robotyce/control-affine system.md",
+    "Planowanie ruchu/assets/triangle distance 2.png",
+    "Planowanie ruchu/assets/triangle distance.png",
+    "Planowanie ruchu/assets/two circles distance.png",
+    "Planowanie ruchu/assets/rectangle distance.png",
+    "Planowanie ruchu/assets/BVH_3D.png",
+    "Planowanie ruchu/assets/kDOPs.png",
+    "Planowanie ruchu/assets/octomap.png",
+    "Planowanie ruchu/assets/OBB.png",
+    "Planowanie ruchu/simple collisions.md",
+    "Planowanie ruchu/assets/ABB.png",
+    "Planowanie ruchu/assets/distance from circle.png",
+    "Planowanie ruchu/TSDF.md",
+    "Planowanie ruchu/static stability.md",
+    "Planowanie ruchu/robot workspace.md",
+    "Planowanie ruchu/motion constraints.md",
+    "Planowanie ruchu/dynamic stability.md",
+    "Planowanie ruchu/cost map.md",
+    "Planowanie ruchu/collision detection.md",
+    "Planowanie ruchu/assets/cost map 3.png",
+    "Planowanie ruchu/Triangle-to-triangle.md",
+    "Planowanie ruchu/Gaussian mixtures.md",
+    "Planowanie ruchu/FCL.md",
+    "Planowanie ruchu/BVH.md",
+    "Planowanie ruchu/2D motion constraints.md",
     "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
-    "Teoria Sterowania w Robotyce/assets/double-integrator-controller.png",
-    "Teoria Sterowania w Robotyce/asymptotic stability.md",
-    "Teoria Sterowania w Robotyce/nonlinear system.md",
-    "Teoria Sterowania w Robotyce/stability of dynamical system.md",
-    "Teoria Sterowania w Robotyce/controllability.md",
-    "Teoria Sterowania w Robotyce/physical pendulum.md",
-    "Teoria Sterowania w Robotyce/robot dynamics.md",
-    "Teoria Sterowania w Robotyce/second-order system.md",
-    "Teoria Sterowania w Robotyce/assets/physical-pendulum-phase-picture.png",
-    "Teoria Sterowania w Robotyce/assets/physical pendulum, overdamped.png",
-    "Teoria Sterowania w Robotyce/assets/lapunov.png",
-    "Teoria Sterowania w Robotyce/control.md",
-    "Systemy Wizyjne/feature detectors.md",
-    "Uczenie Maszynowe/scoring ML.md",
+    "Teoria Sterowania w Robotyce/state space sampling.md",
+    "Teoria Sterowania w Robotyce/stabilizability.md",
+    "Teoria Sterowania w Robotyce/ostatni wyklad xD.md",
+    "Teoria Sterowania w Robotyce/observability.md",
+    "Teoria Sterowania w Robotyce/finding Lyapunov function.md",
+    "Teoria Sterowania w Robotyce/continuous algebraic Ricatti equation.md",
+    "Teoria Sterowania w Robotyce/approximate DP.md",
+    "Teoria Sterowania w Robotyce/Lyapunov function.md",
+    "Teoria Sterowania w Robotyce/Linearisation using Taylor series approximation.md",
+    "Teoria Sterowania w Robotyce/LQR controller.md",
+    "Planowanie ruchu/sensors.md",
+    "Planowanie ruchu/assets",
+    "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",
     "Teoria Sterowania w Robotyce",
-    "Uczenie Maszynowe/SGD.md",
-    "Systemy Wizyjne/assets/canny_th.png",
-    "assets/Pasted image 20240617001535.png",
-    "assets/Pasted image 20240617000532.png",
-    "SW.md",
-    "Systemy Wizyjne/assets/example_scale_space.png",
-    "assets/Pasted image 20240617000648.png",
-    "assets/Pasted image 20240617000534.png",
-    "Systemy Wizyjne/FAST detector.md",
-    "Systemy Wizyjne/Canny algorithm.md",
-    "Systemy Wizyjne/Harris detector.md",
-    "Systemy Wizyjne/SIFT detector.md",
-    "Systemy Wizyjne/Sobel mask.md",
-    "Systemy Wizyjne/SIFT descriptor.md",
     "Systemy Wizyjne/assets",
     "Systemy Wizyjne",
     "obsidian-holovault",
@@ -192,8 +192,6 @@
     "Untitled 1.canvas",
     "assets",
     "Uczenie Maszynowe/assets",
-    "Uczenie Maszynowe",
-    "Nowoczesne sensory w Robotyce/assets",
-    "Nowoczesne sensory w Robotyce"
+    "Uczenie Maszynowe"
   ]
 }
