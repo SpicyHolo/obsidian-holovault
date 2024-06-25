@@ -1,11 +1,11 @@
 W planowaniu ruchu możemy wyróżnić dwa podstawowe problemy - planowanie ścieżki, planowanie trajektorii.
 ### Planowanie ścieżki
-Czyli inaczej sekwencja pozycji, w jakich ma znaleźć się robot
+*ścieżka, czyli inaczej sekwencja pozycji, w jakich ma znaleźć się robot*
 $$
 s = \left\{p_0, p_1, p_2, \dots, p_n \right\}
 $$
 #### Planowanie trajektorii
-Jest to sekwencja pozycji zależna od czasu
+*sekwencja pozycji zależna od czasu*
 $$
 s_t = \left\{p_0(t), p_1(t), \dots, p_n(t)\right\}
 $$
@@ -18,4 +18,14 @@ $$
 $$
 \mathbb{C} = \left\{x, y, \Theta \right\} = \mathbb{R}^2 \times \mathbb{S}^1
 $$
-- Przestrzeń zajęta przez
+- Przestrzeń zajęta przez robota $\mathbb{A}(\mathbf{q})$
+- Przestrzeń zajęta przez przeszkody $\mathbb{C}_{obst}$
+- Wolna przestrzeń $\mathbb{C}_{free} = \mathbb{C} \setminus \mathbb{C}_{obst}$
+
+ ![[motion planning notation diagram.png]]
+
+*Powiększenie przeszkód o rozmiar robota, daje nam łatwiejsza planowanie ruchu dla modelu punktu materialnego*
+
+### Algorytmy  w planowania ruchu
+- Dekompozycja mapy do postaci grafu [[map decomposition algs]]
+- Algortymy szukające ścieżki w grafie [[graph path finding algs]]

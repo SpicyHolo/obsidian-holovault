@@ -11,11 +11,9 @@
             "id": "d600b5f9a1c3b9ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/w.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md",
+                "file": "assets/w.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md",
+                "file": "assets/w.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md"
+                "file": "assets/w.png"
               }
             }
           }
@@ -145,10 +143,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d600b5f9a1c3b9ad",
+  "active": "d4d0da801ad426c1",
   "lastOpenFiles": [
-    "Teoria Sterowania w Robotyce/robot dynamics.md",
+    "assets/visibility graph.png",
+    "visibility graph.md",
+    "map decomposition algs.md",
+    "assets/Pasted image 20240625162147.png",
+    "assets/w.png",
+    "assets",
     "Planowanie ruchu/motion planning.md",
+    "graph c.md",
+    "Planowanie ruchu/assets/motion planning notation diagram.png",
+    "Planowanie ruchu/assets/Pasted image 20240625161214.png",
+    "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Planowanie ruchu/assets/Pasted image 20240625160521.png",
     "Planowanie ruchu/Fast Fusion.md",
     "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121634.png",
@@ -156,11 +163,6 @@
     "Planowanie ruchu/assets/static stability example.png",
     "Pasted image 20240623203359.png.md",
     "Planowanie ruchu/assets/robot workspace example.png",
-    "Planowanie ruchu/assets/dynamic stability condition.png",
-    "Planowanie ruchu/assets/robot workspace example 2.png",
-    "Planowanie ruchu/assets/gaussian modelling error.png",
-    "Planowanie ruchu/assets/gaussian function approx 2D.png",
-    "Planowanie ruchu/assets/gaussian function approx 2.png",
     "Planowanie ruchu/robot workspace.md",
     "Planowanie ruchu/static stability.md",
     "Planowanie ruchu/simple collisions.md",
@@ -179,10 +181,6 @@
     "Teoria Sterowania w Robotyce/stabilizability.md",
     "Teoria Sterowania w Robotyce/ostatni wyklad xD.md",
     "Teoria Sterowania w Robotyce/observability.md",
-    "Teoria Sterowania w Robotyce/finding Lyapunov function.md",
-    "Teoria Sterowania w Robotyce/continuous algebraic Ricatti equation.md",
-    "Teoria Sterowania w Robotyce/approximate DP.md",
-    "Teoria Sterowania w Robotyce/Lyapunov function.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",
@@ -192,7 +190,6 @@
     "obsidian-holovault",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "assets",
     "Uczenie Maszynowe/assets",
     "Uczenie Maszynowe"
   ]
