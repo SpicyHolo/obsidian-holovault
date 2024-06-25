@@ -1,4 +1,4 @@
-**(Probabilistic Road Map)**
+**Rapidly-exploring Random Trees**
 *Algorytm poszukiwania ścieżki próbkujący przestrzeń poszukiwań*
 
 ### Algorytm

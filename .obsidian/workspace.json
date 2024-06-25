@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/BFS.md",
+                "file": "RRT.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRM.md",
+                "file": "RRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PRM.md",
+                "file": "RRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PRM.md"
+                "file": "RRT.md"
               }
             }
           }
@@ -158,45 +157,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21cd5f4825797a4a",
+  "active": "67eb2f9b0c45cfd3",
   "lastOpenFiles": [
-    "probabilistically complete.md",
-    "PRM.md",
-    "assets/Pasted image 20240625180056.png",
     "Planowanie ruchu/sampling-based search algorithms.md",
-    "Planowanie ruchu/motion planning.md",
-    "Planowanie ruchu/BFS.md",
-    "map.md",
-    "Planowanie ruchu/graph-based search algorithms.md",
-    "Planowanie ruchu/A-star.md",
-    "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
+    "PRM.md",
+    "RRT.md",
     "Planowanie ruchu/DFS.md",
+    "Planowanie ruchu/A-star.md",
+    "Planowanie ruchu/BVH.md",
+    "Planowanie ruchu/graph-based search algorithms.md",
+    "Planowanie ruchu/Voronoi diagram.md",
     "Planowanie ruchu/Dijkstra algorithm.md",
+    "Planowanie ruchu/DOF.md",
+    "Planowanie ruchu/BFS.md",
+    "Planowanie ruchu/map decomposition algs.md",
+    "Planowanie ruchu/OctoMap.md",
+    "Planowanie ruchu/NDT-OM.md",
+    "incremental sampling and searching.md",
+    "assets/Pasted image 20240625181826.png",
+    "assets/incremental search example.png",
+    "probabilistically complete.md",
+    "assets/Pasted image 20240625180056.png",
+    "Planowanie ruchu/motion planning.md",
+    "map.md",
+    "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
     "assets/W3_SS_Dijkstra_1 1.webp",
     "Planowanie ruchu/priority queue.md",
-    "Planowanie ruchu/DOF.md",
     "Planowanie ruchu/assets/path connection graph example.png",
     "Planowanie ruchu/assets/voronoi diagram examples 1.png",
     "Planowanie ruchu/assets/BFS.gif",
     "Planowanie ruchu/FCL.md",
     "Planowanie ruchu/Gaussian mixtures.md",
     "Planowanie ruchu/assets/DFS.gif",
-    "Planowanie ruchu/map decomposition algs.md",
-    "Planowanie ruchu/Voronoi diagram.md",
     "Planowanie ruchu/cell decomposition.md",
     "Planowanie ruchu/assets/cell decomposition 1.png",
-    "Planowanie ruchu/assets/voronoi diagram examples.png",
-    "Planowanie ruchu/assets/voronoi diagram.png",
     "Planowanie ruchu/visibility graph.md",
     "Planowanie ruchu/TSDF.md",
     "Planowanie ruchu/actuators.md",
     "Planowanie ruchu/graph c.md",
     "assets",
-    "Teoria Sterowania w Robotyce/robot dynamics.md",
-    "Planowanie ruchu/Fast Fusion.md",
-    "Pasted image 20240623203359.png.md",
-    "Planowanie ruchu/robot workspace.md",
-    "Planowanie ruchu/static stability.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",

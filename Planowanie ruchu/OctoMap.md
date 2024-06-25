@@ -1,4 +1,4 @@
-### Parametry:
+### Parametry
 - Liczba voxeli $N \times M$ , głębokość $K$.
 - Rozmiar mapy: $h \times w \times d$
 - Wielkość voxela: $\frac{h}{N} \times \frac{w}{M} \times \frac{d}{K}$

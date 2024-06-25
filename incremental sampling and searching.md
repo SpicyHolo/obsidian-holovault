@@ -1,14 +1,14 @@
-**(Probabilistic Road Map)**
+Źródło[^1]
 *Algorytm poszukiwania ścieżki próbkujący przestrzeń poszukiwań*
-
+![[incremental search example.png]]
 ### Algorytm
-*W fazie uczenia:*
-- Pobierz $n$ próbek z $\mathbb{C}_{free}$
-- Połącz losowe konfiguracje używając lokalnego planera (kryterium kolizji, maksymalnej długości kroku, itp.).
-*W fazie planowania ruchu:*
-- Znajdź połączenia pomiędzy węzłami $\mathbf{q}_{start}$ i $\mathbf{q}_{goal}$ stosując metody przeszukiwania grafu (BFS, DFS, A-star).
+- **Inicjalizacja** - utwórz zbiór losowych pozycji dopuszczalnych będących w $\mathbb{C}_{free}$ zawierających $\mathbf{q}_{start}$ i $\mathbf{q}_{goal}$.
+- **Wybierz wierzchołek** $\mathbf{q}_{cur}$ do analizy
+- **Zaplanuj lokalną ścieżkę** pomiędzy węzłem $\mathbf{q}_{cur}$, a losowym węzłem $\mathbf{q}_{new}$. Jeżeli nie udało się zaplanować ścieżki lokalnej, idź do punktu 2.
+- **Dodaj krawędź do grafu** między węzłem $\mathbf{q}_{cur}$, a losowym węzłem $\mathbf{q}_{new}$. Dodaj nowy węzeł do grafu.
+- Jeżeli nie udało się zaplanować ścieżki globalnej idź do punktu 2.
 
-![[Pasted image 20240625180056.png]]
+
 
 >[!NOTE]
 > Zbudowany graf połączeń można wykorzystać do jednego planowania (single-query) lub do kilku (multi-query)
@@ -32,5 +32,7 @@
 > 
 
 #todo PRM inkrementalne, PRM 3D, PRM + sieci neuronowe
+
+[^1]:S. M. LaValle, Planning Algorithms (2006), Chapter 5.4
 
 #robotics #motion_planning #graph #algorithm 
