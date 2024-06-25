@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OMPL.md",
+                "file": "Planowanie ruchu/reactive control architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMPL.md",
+                "file": "Planowanie ruchu/reactive control architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMPL.md",
+                "file": "Planowanie ruchu/reactive control architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OMPL.md"
+                "file": "Planowanie ruchu/reactive control architecture.md"
               }
             }
           }
@@ -160,11 +160,22 @@
   },
   "active": "21cd5f4825797a4a",
   "lastOpenFiles": [
-    "Planowanie ruchu/RRT.md",
-    "OMPL.md",
+    "Planowanie ruchu/assets/subsumptic architecture.png",
+    "Planowanie ruchu/robot map.md",
+    "Planowanie ruchu/collision detection.md",
+    "Planowanie ruchu/cost map.md",
+    "Planowanie ruchu/visibility graph.md",
+    "Planowanie ruchu/Voronoi diagram.md",
+    "Planowanie ruchu/assets/hybrid architecture.png",
+    "Planowanie ruchu/assets/reactive architecture.png",
+    "Planowanie ruchu/assets/hierarchical  architecture.png",
+    "Planowanie ruchu/reactive control architecture.md",
+    "Planowanie ruchu/control architecture.md",
     "Planowanie ruchu/motion planning.md",
+    "Planowanie ruchu/OMPL.md",
+    "Planowanie ruchu/RRT.md",
     "Planowanie ruchu/graph-based search algorithms.md",
-    "kinodynamic planning.md",
+    "Planowanie ruchu/kinodynamic planning.md",
     "Planowanie ruchu/assets/nearest edge.png",
     "Planowanie ruchu/assets/RRT diagram.png",
     "Planowanie ruchu/assets/RRT example.png",
@@ -177,7 +188,6 @@
     "Planowanie ruchu/DFS.md",
     "Planowanie ruchu/A-star.md",
     "Planowanie ruchu/BVH.md",
-    "Planowanie ruchu/Voronoi diagram.md",
     "Planowanie ruchu/Dijkstra algorithm.md",
     "Planowanie ruchu/DOF.md",
     "Planowanie ruchu/BFS.md",
@@ -185,17 +195,7 @@
     "Planowanie ruchu/OctoMap.md",
     "Planowanie ruchu/NDT-OM.md",
     "Planowanie ruchu/incremental sampling and searching.md",
-    "Planowanie ruchu/probabilistically complete.md",
-    "map.md",
     "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
-    "assets/W3_SS_Dijkstra_1 1.webp",
-    "Planowanie ruchu/priority queue.md",
-    "Planowanie ruchu/assets/path connection graph example.png",
-    "Planowanie ruchu/assets/voronoi diagram examples 1.png",
-    "Planowanie ruchu/FCL.md",
-    "Planowanie ruchu/Gaussian mixtures.md",
-    "Planowanie ruchu/cell decomposition.md",
-    "Planowanie ruchu/visibility graph.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",

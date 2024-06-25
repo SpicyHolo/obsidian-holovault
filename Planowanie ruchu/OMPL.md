@@ -6,8 +6,7 @@
 - Dostępny front-end oparty o PyQt / PySide, wrapper do wykrywania kolizji ([[FCL]], PQP), Assimp do wczytywanie siatek mesh
 ### Dostęp za pośrednictwem biblioteki MoveIt!
 
-### Dostępne metody
-
+### Dostępne planery geometryczne
 #### Mutli-query
 - PRM (LazyPRM, PRM*, LazyPRM*)
 - SPARS
@@ -27,11 +26,15 @@
 - Lower Bound Tree RRT (LBTRRT)
 - Sparse Stable RRT, Transition-based RRT (T-RRT)
 - SPARS, SPARS2
-- FMT*, CForest, AnytimePathShortening (APS)
-#### Dostępne planery kinod
+- FMT*, CForest, Anytime Path Shortening (APS)
+### Dostępne planery kinodynamiczne:
+
 - RRT, Sparse Stable RRT
 - Expansive Space Trees (EST)
 - Kinodynamic Planning by Interior-Exterior Cell Exploration (KPIECE)
 - Path-Directed Subdivision Trees (PDST)
 - Syclop
-- Linear Temporal Logical Planner (LTLPlanner)
+- Linear Temporal Logical Planner (LTLPlanner
+#todo not finished note
+
+#robotics #motion_planning #library
