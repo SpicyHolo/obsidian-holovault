@@ -11,10 +11,20 @@
             "id": "d600b5f9a1c3b9ad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/w.png"
+                "file": "cell decomposition.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "67eb2f9b0c45cfd3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/w.png",
+                "file": "cell decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/w.png",
+                "file": "cell decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/w.png"
+                "file": "cell decomposition.md"
               }
             }
           }
@@ -143,30 +153,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d0da801ad426c1",
+  "active": "d600b5f9a1c3b9ad",
   "lastOpenFiles": [
-    "assets/visibility graph.png",
-    "visibility graph.md",
-    "map decomposition algs.md",
-    "assets/Pasted image 20240625162147.png",
-    "assets/w.png",
-    "assets",
+    "Planowanie ruchu/Voronoi diagram.md",
+    "cell decomposition.md",
+    "assets/Pasted image 20240625163828.png",
+    "Planowanie ruchu/map decomposition algs.md",
     "Planowanie ruchu/motion planning.md",
-    "graph c.md",
+    "Planowanie ruchu/assets/voronoi diagram examples.png",
+    "Planowanie ruchu/assets/voronoi diagram.png",
+    "Planowanie ruchu/assets/voronoi diagram path.png",
+    "Planowanie ruchu/visibility graph.md",
+    "Planowanie ruchu/assets/visibility graph path.png",
+    "Planowanie ruchu/assets/visibility graph time complexity.png",
+    "Planowanie ruchu/TSDF.md",
+    "Planowanie ruchu/actuators.md",
+    "Planowanie ruchu/graph c.md",
+    "Planowanie ruchu/assets/visibility graph.png",
+    "Planowanie ruchu/assets/voronoi decomposition.png",
+    "Planowanie ruchu/assets/cell decomposition.png",
+    "assets",
     "Planowanie ruchu/assets/motion planning notation diagram.png",
-    "Planowanie ruchu/assets/Pasted image 20240625161214.png",
     "Teoria Sterowania w Robotyce/robot dynamics.md",
-    "Planowanie ruchu/assets/Pasted image 20240625160521.png",
     "Planowanie ruchu/Fast Fusion.md",
-    "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121634.png",
-    "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121430.png",
-    "Planowanie ruchu/assets/static stability example.png",
     "Pasted image 20240623203359.png.md",
-    "Planowanie ruchu/assets/robot workspace example.png",
     "Planowanie ruchu/robot workspace.md",
     "Planowanie ruchu/static stability.md",
     "Planowanie ruchu/simple collisions.md",
-    "Planowanie ruchu/TSDF.md",
     "Planowanie ruchu/motion constraints.md",
     "Planowanie ruchu/dynamic stability.md",
     "Planowanie ruchu/cost map.md",
@@ -178,9 +191,6 @@
     "Planowanie ruchu/2D motion constraints.md",
     "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
     "Teoria Sterowania w Robotyce/state space sampling.md",
-    "Teoria Sterowania w Robotyce/stabilizability.md",
-    "Teoria Sterowania w Robotyce/ostatni wyklad xD.md",
-    "Teoria Sterowania w Robotyce/observability.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",
