@@ -1,6 +1,7 @@
-Warunek optymalności dla ciągłej reprezentacji w [[dynamic programing in optimal control]].
+Warunek optymalności dla ciągłej reprezentacji systemu DP ([[dynamic programing in optimal control]]).
 $$
-0 = h \min_u[l_c(x, u)+ h \frac{\partial J^*}{\partial x}f_c(x, u)]
+0 = \min_u[l_c(x, u)+ \frac{\partial J^*}{\partial x}f_c(x, u)]
 $$
+
 
 #control_theory #optimal_control 
