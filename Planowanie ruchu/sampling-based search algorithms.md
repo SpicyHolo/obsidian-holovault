@@ -18,3 +18,4 @@
 ### Optimal Sampling-based algorithm variants
 #### PRM* ([[PRM-star]])
 
+#### Rapidly-exploring Random Graph ([[RRG]])

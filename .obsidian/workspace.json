@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRM-star.md",
+                "file": "Planowanie ruchu/PRM-star.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f771726f9e1ef66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PRM-star.md",
+                "file": "RRG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PRM-star.md",
+                "file": "RRG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PRM-star.md"
+                "file": "RRG.md"
               }
             }
           }
@@ -145,11 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b15ad9b6f062f07b",
+  "active": "2f771726f9e1ef66",
   "lastOpenFiles": [
-    "assets/PRM-star.png",
+    "assets/Pasted image 20240626004951.png",
     "Planowanie ruchu/sampling-based search algorithms.md",
-    "PRM-star.md",
+    "RRG.md",
+    "Planowanie ruchu/graph-based search algorithms.md",
+    "Planowanie ruchu/k-d trees.md",
+    "Planowanie ruchu/assets/kd trees.png",
+    "Planowanie ruchu/PRM-star.md",
+    "Planowanie ruchu/assets/PRM-star.png",
     "Planowanie ruchu/incremental sampling and searching.md",
     "Planowanie ruchu/VFH.md",
     "góry.md",
@@ -175,14 +193,9 @@
     "Planowanie ruchu/visibility graph.md",
     "Planowanie ruchu/Voronoi diagram.md",
     "Planowanie ruchu/assets/hybrid architecture.png",
-    "Planowanie ruchu/assets/reactive architecture.png",
-    "Planowanie ruchu/assets/hierarchical  architecture.png",
     "Planowanie ruchu/motion planning.md",
     "Planowanie ruchu/OMPL.md",
-    "Planowanie ruchu/graph-based search algorithms.md",
     "Planowanie ruchu/autonomic robots.md",
-    "Planowanie ruchu/PRM.md",
-    "Planowanie ruchu/DFS.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
