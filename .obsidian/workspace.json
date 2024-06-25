@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcef5f1123ae57a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "192ebf8f53bfd609",
+  "active": "bcef5f1123ae57a0",
   "lastOpenFiles": [
     "Planowanie ruchu/VFH.md",
     "góry.md",
