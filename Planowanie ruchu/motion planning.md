@@ -26,13 +26,21 @@ $$
 
 *Powiększenie przeszkód o rozmiar robota, daje nam łatwiejsza planowanie ruchu dla modelu punktu materialnego*
 
-### Algorytmy  w planowania ruchu
+### Planowanie ruchu w statycznym środowisku
 - **Dekompozycja mapy do postaci grafu: [[map decomposition algs]]**
 - **Algorytmy szukające ścieżki w grafie:  [[graph-based search algorithms]]**
 - **Algorytmy próbkujące przestrzeń: [[sampling-based search algorithms]]**
+
+### Planowanie ruchu z ograniczeniami kinodynamicznymi
+
+### Planowanie w dynamicznym środowisku
+- Wykorzystanie zwyczajnego algorytmu (np. A*, RRT, itp.), ale trzeba to zrobić szybko
+- Planowanie ruchu w ograniczonym horyzoncie za pomocą znanych algorytmów (A*, RRT< itp.) *problem z minimami lokalnymi*.
+- Wykorzystanie algorytmów dedykowanych ([[D-star]], [[Focused D-star]], [[Incremental A-star]], [[D-star lite]]).
 ### Open Motion Planning Library ([[OMPL]])
 
 ### Architektury sterowania [[control architecture]]
+
 
 
 

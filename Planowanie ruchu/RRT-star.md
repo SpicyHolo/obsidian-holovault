@@ -1,5 +1,5 @@
 **Rapidly-exploring Random Tree$^*$**
-
+Rozszerzenie [[RRT-star]]
 *Działa tak samo jak [[RRG]], jednak w przypadku znalezienie*
 *połączenia pomiędzy nowym węzłem $x_{new}$, a sąsiadami, jest ono*
 *dodawane do drzewa tylko pod warunkiem, że jest krótsze niż*

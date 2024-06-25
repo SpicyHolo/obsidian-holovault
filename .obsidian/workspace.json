@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/RRG.md",
+                "file": "Planowanie ruchu/motion constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/RRG.md",
+                "file": "Planowanie ruchu/motion constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/RRG.md",
+                "file": "Planowanie ruchu/motion constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/RRG.md"
+                "file": "Planowanie ruchu/motion constraints.md"
               }
             }
           }
@@ -155,11 +155,18 @@
   },
   "active": "b15ad9b6f062f07b",
   "lastOpenFiles": [
+    "Planowanie ruchu/assets/Pasted image 20240626012459.png",
+    "Planowanie ruchu/2D motion constraints.md",
+    "Planowanie ruchu/motion constraints.md",
+    "Planowanie ruchu/motion planning.md",
+    "Planowanie ruchu/kinodynamic planning.md",
+    "D-star.md",
+    "Planowanie ruchu/metric map.md",
     "Planowanie ruchu/sampling-based search algorithms.md",
     "Planowanie ruchu/RRT-star.md",
+    "Planowanie ruchu/RRG.md",
     "Planowanie ruchu/assets/RRT-star optimality graph.png",
     "Planowanie ruchu/assets/RRT-star exploring.png",
-    "Planowanie ruchu/RRG.md",
     "Planowanie ruchu/PRM-star.md",
     "assets/RRG vs RRT vs RRT-star.png",
     "assets/RRT vs RRG.png",
@@ -173,7 +180,6 @@
     "góry.md",
     "Planowanie ruchu/probabilistically complete.md",
     "Planowanie ruchu/control architecture.md",
-    "Planowanie ruchu/kinodynamic planning.md",
     "Planowanie ruchu/RRT.md",
     "Planowanie ruchu/reactive control architecture.md",
     "Planowanie ruchu/hierarchical control architecture.md",
@@ -185,11 +191,6 @@
     "Planowanie ruchu/assets/VFH diagram.png",
     "Planowanie ruchu/collision detection.md",
     "Planowanie ruchu/robot map.md",
-    "Planowanie ruchu/cost map.md",
-    "Planowanie ruchu/visibility graph.md",
-    "Planowanie ruchu/Voronoi diagram.md",
-    "Planowanie ruchu/motion planning.md",
-    "Planowanie ruchu/OMPL.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",

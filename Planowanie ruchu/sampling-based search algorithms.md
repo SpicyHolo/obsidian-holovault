@@ -19,4 +19,3 @@
 - PRM* ([[PRM-star]])
 - Rapidly-exploring Random Graph ([[RRG]])
 - Rapidly-exploring Random Trees (RRT* / [[RRT-star]])
-- 
