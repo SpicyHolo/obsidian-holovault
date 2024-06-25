@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/motion constraints.md",
+                "file": "Planowanie ruchu/kinodynamic planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/motion constraints.md",
+                "file": "Planowanie ruchu/kinodynamic planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/motion constraints.md",
+                "file": "Planowanie ruchu/kinodynamic planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/motion constraints.md"
+                "file": "Planowanie ruchu/kinodynamic planning.md"
               }
             }
           }
@@ -155,9 +155,15 @@
   },
   "active": "b15ad9b6f062f07b",
   "lastOpenFiles": [
-    "Planowanie ruchu/assets/Pasted image 20240626012459.png",
-    "Planowanie ruchu/2D motion constraints.md",
     "Planowanie ruchu/motion constraints.md",
+    "Teoria Sterowania w Robotyce/robot dynamics.md",
+    "Teoria Sterowania w Robotyce/dynamical system.md",
+    "Planowanie ruchu/assets/Pasted image 20240626013436.png",
+    "Planowanie ruchu/assets/Pasted image 20240626013424.png",
+    "Planowanie ruchu/assets/Pasted image 20240626013413.png",
+    "Planowanie ruchu/assets/diff drive.png",
+    "Planowanie ruchu/assets/inevitable collision states.png",
+    "Planowanie ruchu/2D motion constraints.md",
     "Planowanie ruchu/motion planning.md",
     "Planowanie ruchu/kinodynamic planning.md",
     "D-star.md",
@@ -173,8 +179,6 @@
     "assets/Pasted image 20240626004951.png",
     "Planowanie ruchu/graph-based search algorithms.md",
     "Planowanie ruchu/k-d trees.md",
-    "Planowanie ruchu/assets/kd trees.png",
-    "Planowanie ruchu/assets/PRM-star.png",
     "Planowanie ruchu/incremental sampling and searching.md",
     "Planowanie ruchu/VFH.md",
     "góry.md",
@@ -186,11 +190,7 @@
     "Planowanie ruchu/hybrid control architecture.md",
     "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
     "Planowanie ruchu/DWA.md",
-    "Planowanie ruchu/assets/DWA diagram.png",
-    "Planowanie ruchu/assets/VFH diagram.png",
-    "Planowanie ruchu/assets/VFH diagram.png",
     "Planowanie ruchu/collision detection.md",
-    "Planowanie ruchu/robot map.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",

@@ -24,4 +24,53 @@ Wynikają ze struktury robota/agenta:
 Dodatkowo obejmują:
 - maksymalne przyspieszenia w przegubach
 - ograniczenia na $M$, $F$
-![[Pasted image 20240626012459.png]]
+
+![[inevitable collision states.png]]
+*Kolizje dla różnych prędkości ruchu (Inevitable Collision States)*
+
+### Przykład: Robot differential-drive
+Stan robota: $\mathbf{x} = [x, y, \theta]^T$, sterowanie: $\mathbf{u} = [u_l, u_r]^T$
+$$
+\begin{cases}
+\dot{x} = \frac{r}{2}(u_l + u_r)\cdot\cos(\theta)\\
+\dot{y} = \frac{r}{2}(u_l + u_r)\cdot\sin(\theta)\\\\
+\dot{\theta} = \frac{r}{L}(u_l-u_r)
+\end{cases}
+$$
+![[diff drive.png]]
+
+Kinematyka prosta (obliczenie nowego stanu):
+$$
+\begin{cases}
+x_t = x_{t-1} + \frac{r}{2}(u_l + u_r)\cdot\cos(\theta) \Delta t\\
+y_t = y_{t-1} + \frac{r}{2}(u_l + u_r)\cdot\sin(\theta) \Delta t\\
+\theta_t = \theta_{t-1} + \frac{r}{L}(u_l - u_r) \Delta t
+\end{cases}
+$$
+Prędkość kół na podstawie wartości zadanych:
+$$
+\begin{cases}
+\dot{u_l} = \frac{\dot{x} - \left(\frac{L}{2}\cdot\dot{\theta}\right)}{r} \\
+\dot{u_r} = \frac{\dot{x} + \left(\frac{L}{2}\cdot\dot{\theta}\right)}{r} \\
+\end{cases}
+$$
+### Kinematyka typu samochodowego
+![[Pasted image 20240626013413.png]]
+
+### Reeds-Shepp Car
+![[Pasted image 20240626013424.png]]
+
+### Dubins Car
+![[Pasted image 20240626013436.png]]
+
+### Modelowanie dynamiki
+• Uwzględnienie masy i momentów bezwładności
+• Uwzględnienie momentów i sił przykładanych do obiektów
+• Uwzględnienie ograniczeń na momenty/siły i przyspieszenia, wynikające z zastosowanych napędów (modelowanie napędów)
+• Uwzględnianie zjawisk nieliniowych, np. poślizgów, itd
+Dla robotów ([[robot dynamics]])
+$$
+\tau = M(q)\ddot{q} + C(q, \dot{q})\dot{q} + G(q)
+$$
+
+
