@@ -27,5 +27,5 @@ $$
 *Powiększenie przeszkód o rozmiar robota, daje nam łatwiejsza planowanie ruchu dla modelu punktu materialnego*
 
 ### Algorytmy  w planowania ruchu
-- Dekompozycja mapy do postaci grafu [[map decomposition algs]]
-- Algortymy szukające ścieżki w grafie [[graph path finding algs]]
+- **Dekompozycja mapy do postaci grafu: [[map decomposition algs]]**
+- **Algortymy szukające ścieżki w grafie:  [[graph path finding algs]]**

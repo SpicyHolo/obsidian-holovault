@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cell decomposition.md",
+                "file": "BFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cell decomposition.md",
+                "file": "BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cell decomposition.md",
+                "file": "BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cell decomposition.md"
+                "file": "BFS.md"
               }
             }
           }
@@ -155,11 +155,18 @@
   },
   "active": "d600b5f9a1c3b9ad",
   "lastOpenFiles": [
+    "graph path finding algs.md",
+    "BFS.md",
+    "DFS.md",
+    "assets/BFS.gif",
+    "assets/DFS.gif",
+    "assets/Pasted image 20240625164333.png",
+    "Planowanie ruchu/motion planning.md",
+    "Planowanie ruchu/map decomposition algs.md",
     "Planowanie ruchu/Voronoi diagram.md",
     "cell decomposition.md",
+    "assets/cell decomposition.png",
     "assets/Pasted image 20240625163828.png",
-    "Planowanie ruchu/map decomposition algs.md",
-    "Planowanie ruchu/motion planning.md",
     "Planowanie ruchu/assets/voronoi diagram examples.png",
     "Planowanie ruchu/assets/voronoi diagram.png",
     "Planowanie ruchu/assets/voronoi diagram path.png",
@@ -169,11 +176,7 @@
     "Planowanie ruchu/TSDF.md",
     "Planowanie ruchu/actuators.md",
     "Planowanie ruchu/graph c.md",
-    "Planowanie ruchu/assets/visibility graph.png",
-    "Planowanie ruchu/assets/voronoi decomposition.png",
-    "Planowanie ruchu/assets/cell decomposition.png",
     "assets",
-    "Planowanie ruchu/assets/motion planning notation diagram.png",
     "Teoria Sterowania w Robotyce/robot dynamics.md",
     "Planowanie ruchu/Fast Fusion.md",
     "Pasted image 20240623203359.png.md",
@@ -189,8 +192,6 @@
     "Planowanie ruchu/FCL.md",
     "Planowanie ruchu/BVH.md",
     "Planowanie ruchu/2D motion constraints.md",
-    "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
-    "Teoria Sterowania w Robotyce/state space sampling.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",
