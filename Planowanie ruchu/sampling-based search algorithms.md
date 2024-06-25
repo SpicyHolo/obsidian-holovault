@@ -11,6 +11,10 @@
 
 #### Probabilistic Road Map ([[PRM]])
 
-### [[incremental sampling and searching]]
+#### [[incremental sampling and searching]]
 
-### Rapidly-exploring Random Trees ([[RRT]])
+#### Rapidly-exploring Random Trees ([[RRT]])
+
+### Optimal Sampling-based algorithm variants
+#### PRM* ([[PRM-star]])
+

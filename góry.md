@@ -11,9 +11,9 @@
 - [ ]  Buty do jaskini
 - [x]  Piżama
 ### Akcesoria
-- [ ] Chusta buff
+- [ ] Chusta buff +
 - [x] Okulary przeciwsłoneczne x2
-- [ ] Powerbank
+- [x] Powerbank
 - [ ] Ładowarka + 2 kable
 - [ ] Laptop
 - [ ] Słuchawki
