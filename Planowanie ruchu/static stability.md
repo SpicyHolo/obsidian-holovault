@@ -1,3 +1,3 @@
-![[Pasted image 20240623203414.png]]
+![[static stability example.png]]
 
 #robotics #motion_planning 

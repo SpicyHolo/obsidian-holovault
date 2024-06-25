@@ -1,4 +1,4 @@
 Przestrzeń robocza robota wynikająca z ograniczeń kinematycznych robota.
-![[Pasted image 20240623203359.png]]
-![[Pasted image 20240623203410.png]]
+![[robot workspace example.png]]
+![[robot workspace example 2.png]]
 #robotics #motion_planning 

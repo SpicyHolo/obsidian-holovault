@@ -9,6 +9,6 @@ W przypadku prostych brył wykorzystuje się odległośc euklidesową, dla dowol
 - Mieszaniny funkcji Gaussa ([[Gaussian mixtures]])
 
 ### Złożonośc modelu, a czas
-![[Pasted image 20240623202112.png]]
-![[Pasted image 20240623202117.png]]
+![[model complexity comparison.png]]
+![[model complexity comparison 2.png]]
 

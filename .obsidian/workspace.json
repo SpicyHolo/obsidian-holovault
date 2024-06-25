@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1d47584d534fc38a",
+        "id": "53f18510aeb07b43",
         "type": "tabs",
         "children": [
           {
-            "id": "d45a8c32a94f4f69",
+            "id": "d600b5f9a1c3b9ad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/assets/triangle distance.png"
+                "file": "Planowanie ruchu/Fast Fusion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/assets/triangle distance.png",
+                "file": "Planowanie ruchu/Fast Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/assets/triangle distance.png",
+                "file": "Planowanie ruchu/Fast Fusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/assets/triangle distance.png"
+                "file": "Planowanie ruchu/Fast Fusion.md"
               }
             }
           }
@@ -143,27 +145,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d45a8c32a94f4f69",
+  "active": "d600b5f9a1c3b9ad",
   "lastOpenFiles": [
-    "Planowanie ruchu/assets/triangle distance 2.png",
-    "Planowanie ruchu/assets/triangle distance.png",
-    "Planowanie ruchu/assets/two circles distance.png",
-    "Planowanie ruchu/assets/rectangle distance.png",
-    "Planowanie ruchu/assets/BVH_3D.png",
-    "Planowanie ruchu/assets/kDOPs.png",
-    "Planowanie ruchu/assets/octomap.png",
-    "Planowanie ruchu/assets/OBB.png",
-    "Planowanie ruchu/simple collisions.md",
-    "Planowanie ruchu/assets/ABB.png",
-    "Planowanie ruchu/assets/distance from circle.png",
-    "Planowanie ruchu/TSDF.md",
-    "Planowanie ruchu/static stability.md",
+    "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121634.png",
+    "Teoria Sterowania w Robotyce/assets/Pasted image 20240618121430.png",
+    "Planowanie ruchu/motion planning.md",
+    "Planowanie ruchu/Fast Fusion.md",
+    "Planowanie ruchu/assets/static stability example.png",
+    "Pasted image 20240623203359.png.md",
+    "Planowanie ruchu/assets/robot workspace example.png",
+    "Planowanie ruchu/assets/dynamic stability condition.png",
+    "Planowanie ruchu/assets/robot workspace example 2.png",
+    "Planowanie ruchu/assets/gaussian modelling error.png",
+    "Planowanie ruchu/assets/gaussian function approx 2D.png",
+    "Planowanie ruchu/assets/gaussian function approx 2.png",
+    "Planowanie ruchu/assets/gaussian function approx.png",
+    "Planowanie ruchu/assets/model complexity comparison 2.png",
     "Planowanie ruchu/robot workspace.md",
+    "Planowanie ruchu/static stability.md",
+    "Planowanie ruchu/simple collisions.md",
+    "Planowanie ruchu/TSDF.md",
     "Planowanie ruchu/motion constraints.md",
     "Planowanie ruchu/dynamic stability.md",
     "Planowanie ruchu/cost map.md",
     "Planowanie ruchu/collision detection.md",
-    "Planowanie ruchu/assets/cost map 3.png",
     "Planowanie ruchu/Triangle-to-triangle.md",
     "Planowanie ruchu/Gaussian mixtures.md",
     "Planowanie ruchu/FCL.md",
@@ -178,9 +183,6 @@
     "Teoria Sterowania w Robotyce/continuous algebraic Ricatti equation.md",
     "Teoria Sterowania w Robotyce/approximate DP.md",
     "Teoria Sterowania w Robotyce/Lyapunov function.md",
-    "Teoria Sterowania w Robotyce/Linearisation using Taylor series approximation.md",
-    "Teoria Sterowania w Robotyce/LQR controller.md",
-    "Planowanie ruchu/sensors.md",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
     "Teoria Sterowania w Robotyce/assets",

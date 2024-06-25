@@ -1,3 +1,3 @@
-![[Pasted image 20240623203459.png]]
+![[dynamic stability condition.png]]
 #robotics #motion_planning 
 

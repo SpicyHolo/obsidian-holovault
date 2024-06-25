@@ -18,9 +18,9 @@ $$
 jest macierzą Vandermonde'a, a $\mathbf{r}$ jest wektorem kolizji $f_c$ odpowiadającym punktom wejściowym $\mathbf{q}_r$.
 wartości $\lambda_{qp}$ i $a_{qp}$ są uzywskiwane za pomocą metody [[PSO]].
 ### Przykłady
-![[Pasted image 20240623202820.png]]
-![[Pasted image 20240623202829.png]]
-![[Pasted image 20240623202834.png]]
-![[Pasted image 20240623202853.png]]
+![[gaussian function approx.png]]
+![[gaussian function approx 2.png]]
+![[gaussian function approx 2D.png]]
+![[gaussian modelling error.png]]
 
 #robotics #motion_planning 

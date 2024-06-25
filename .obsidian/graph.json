@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Teoria Sterowania w Robotyce\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,34 +11,41 @@
       "query": "path: \"Uczenie Maszynowe\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"Systemy Wizyjne\"  ",
       "color": {
         "a": 1,
-        "rgb": 9175295
+        "rgb": 65280
       }
     },
     {
       "query": "path:\"Teoria Sterowania w Robotyce\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"Planowanie ruchu\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 2.4734375,
-  "lineSizeMultiplier": 2.11614583333333,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.44085474660956,
+  "lineSizeMultiplier": 1.58075481798715,
   "collapse-forces": false,
-  "centerStrength": 0.567708333333333,
-  "repelStrength": 20,
-  "linkStrength": 0.71875,
-  "linkDistance": 248,
-  "scale": 0.466196977988058,
+  "centerStrength": 0.296484653818701,
+  "repelStrength": 10.3836545324768,
+  "linkStrength": 1,
+  "linkDistance": 145,
+  "scale": 0.2223679930858712,
   "close": false
 }
