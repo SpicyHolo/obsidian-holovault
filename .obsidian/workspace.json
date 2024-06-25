@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md",
+                "file": "OMPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md",
+                "file": "OMPL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md",
+                "file": "OMPL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planowanie ruchu/motion planning.md"
+                "file": "OMPL.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "21cd5f4825797a4a",
   "lastOpenFiles": [
-    "Planowanie ruchu/graph-based search algorithms.md",
     "Planowanie ruchu/RRT.md",
+    "OMPL.md",
+    "Planowanie ruchu/motion planning.md",
+    "Planowanie ruchu/graph-based search algorithms.md",
     "kinodynamic planning.md",
     "Planowanie ruchu/assets/nearest edge.png",
     "Planowanie ruchu/assets/RRT diagram.png",
@@ -184,7 +186,6 @@
     "Planowanie ruchu/NDT-OM.md",
     "Planowanie ruchu/incremental sampling and searching.md",
     "Planowanie ruchu/probabilistically complete.md",
-    "Planowanie ruchu/motion planning.md",
     "map.md",
     "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
     "assets/W3_SS_Dijkstra_1 1.webp",
@@ -195,7 +196,6 @@
     "Planowanie ruchu/Gaussian mixtures.md",
     "Planowanie ruchu/cell decomposition.md",
     "Planowanie ruchu/visibility graph.md",
-    "Planowanie ruchu/TSDF.md",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",
