@@ -10,7 +10,7 @@
 #### Optymalna pod-struktura
 Zakładamy, że optymalizacja lokalnych, małych odcinków ścieżki, daje nam optymalną globalnie ścieżkę.
 
-## Przykład: [[physical pendulum]]
+### Przykład: [[physical pendulum]]
 #### Naszą sumą funkcji kosztów jest czas - t
 $$
 t = \displaystyle{
@@ -54,6 +54,8 @@ $$
 - Wysoka złożoność obliczeniowa, szczególnie przy *przestrzeniach wielowymiarowych*.
 - Wymagana pełna znajomość stanu [[observability]].
 
+![video](https://youtu.be/yeL7ICc8g4A)
+![video2](https://youtu.be/r2bPY2s9wII)
 ## Ciągła wersja programowania dynamicznego ([[continuous dynamic programming]])
 
 

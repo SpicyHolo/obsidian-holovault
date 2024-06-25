@@ -3,3 +3,5 @@ Istnieją trzy podstawowe architektury sterowania robotami:
 - architektura hierarchiczna (deliberatywna) [[hierarchical control architecture]] ![[hierarchical  architecture.png]]
 - architektura hybrydowa [[hybrid control architecture]] 
 ![[hybrid architecture.png]]
+
+#robotics #motion_planning 

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "53f18510aeb07b43",
+        "id": "19557726ea7c990c",
         "type": "tabs",
         "children": [
           {
-            "id": "67eb2f9b0c45cfd3",
+            "id": "b8cc5f8052bf3327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planowanie ruchu/RRT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21cd5f4825797a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planowanie ruchu/reactive control architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planowanie ruchu/reactive control architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planowanie ruchu/reactive control architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Planowanie ruchu/reactive control architecture.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,31 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21cd5f4825797a4a",
+  "active": "b8cc5f8052bf3327",
   "lastOpenFiles": [
-    "Planowanie ruchu/assets/subsumptic architecture.png",
-    "Planowanie ruchu/robot map.md",
+    "Planowanie ruchu/probabilistically complete.md",
+    "Planowanie ruchu/control architecture.md",
+    "Planowanie ruchu/kinodynamic planning.md",
+    "Planowanie ruchu/RRT.md",
+    "Planowanie ruchu/reactive control architecture.md",
+    "Planowanie ruchu/hierarchical control architecture.md",
+    "Planowanie ruchu/hybrid control architecture.md",
+    "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",
+    "Planowanie ruchu/DWA.md",
+    "Planowanie ruchu/assets/DWA diagram.png",
+    "Planowanie ruchu/VFH.md",
+    "Planowanie ruchu/assets/VFH diagram.png",
+    "Planowanie ruchu/assets/VFH diagram.png",
     "Planowanie ruchu/collision detection.md",
+    "Planowanie ruchu/robot map.md",
+    "Planowanie ruchu/assets/Pasted image 20240625191029.png",
+    "Planowanie ruchu/assets/Pasted image 20240625191022.png",
+    "Planowanie ruchu/assets/potential control architecture.png",
+    "Planowanie ruchu/assets/subsumptic architecture.png",
     "Planowanie ruchu/cost map.md",
     "Planowanie ruchu/visibility graph.md",
     "Planowanie ruchu/Voronoi diagram.md",
     "Planowanie ruchu/assets/hybrid architecture.png",
     "Planowanie ruchu/assets/reactive architecture.png",
     "Planowanie ruchu/assets/hierarchical  architecture.png",
-    "Planowanie ruchu/reactive control architecture.md",
-    "Planowanie ruchu/control architecture.md",
     "Planowanie ruchu/motion planning.md",
     "Planowanie ruchu/OMPL.md",
-    "Planowanie ruchu/RRT.md",
     "Planowanie ruchu/graph-based search algorithms.md",
-    "Planowanie ruchu/kinodynamic planning.md",
-    "Planowanie ruchu/assets/nearest edge.png",
-    "Planowanie ruchu/assets/RRT diagram.png",
-    "Planowanie ruchu/assets/RRT example.png",
     "Planowanie ruchu/autonomic robots.md",
-    "Planowanie ruchu/assets/PRM example.png",
-    "assets/Pasted image 20240625181826.png",
-    "Planowanie ruchu/assets/incremental search example.png",
     "Planowanie ruchu/sampling-based search algorithms.md",
     "Planowanie ruchu/PRM.md",
     "Planowanie ruchu/DFS.md",
@@ -190,12 +176,6 @@
     "Planowanie ruchu/BVH.md",
     "Planowanie ruchu/Dijkstra algorithm.md",
     "Planowanie ruchu/DOF.md",
-    "Planowanie ruchu/BFS.md",
-    "Planowanie ruchu/map decomposition algs.md",
-    "Planowanie ruchu/OctoMap.md",
-    "Planowanie ruchu/NDT-OM.md",
-    "Planowanie ruchu/incremental sampling and searching.md",
-    "Planowanie ruchu/assets/W3_SS_Dijkstra_1.webp",
     "assets",
     "Planowanie ruchu/assets",
     "Planowanie ruchu",

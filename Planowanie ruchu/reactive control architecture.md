@@ -36,5 +36,19 @@ Ale ma też swoje wady <3
 • Poruszaj się w losowym kierunku
 • Unikaj kolizji z przeszkodami
 *Pojawienie się przeszkody powoduje, że wyższe warstwy tracą*
-*dostęp do aktuatorów*
+*dostęp do aktuatorów.
 
+### Architektura potencjałowa (Ronald Arkin, IJRR, 1987)
+![[potential control architecture.png]]
+*Niezależne moduły ale tylko jedno sterowanie – łączenie wyjść.*
+
+**Przykładowe warstwy:**
+• Unikaj przeszkód
+• Idź do celu
+• Idź do przodu
+• Zostań na ścieżce
+
+![[Pasted image 20240625191022.png]]
+![[Pasted image 20240625191029.png]]
+
+#robotics #motion_planning
