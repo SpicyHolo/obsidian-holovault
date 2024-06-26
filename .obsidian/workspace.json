@@ -155,7 +155,9 @@
   },
   "active": "b15ad9b6f062f07b",
   "lastOpenFiles": [
+    "Planowanie ruchu/RRT.md",
     "Planowanie ruchu/PRM-star.md",
+    "Planowanie ruchu/reactive control architecture.md",
     "Planowanie ruchu/PRM.md",
     "Planowanie ruchu/NDT-OM.md",
     "Planowanie ruchu/kinodynamic planning.md",
@@ -186,8 +188,6 @@
     "góry.md",
     "Planowanie ruchu/probabilistically complete.md",
     "Planowanie ruchu/control architecture.md",
-    "Planowanie ruchu/RRT.md",
-    "Planowanie ruchu/reactive control architecture.md",
     "Planowanie ruchu/hierarchical control architecture.md",
     "Planowanie ruchu/hybrid control architecture.md",
     "Teoria Sterowania w Robotyce/dynamic programing in optimal control.md",

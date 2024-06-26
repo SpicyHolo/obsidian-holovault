@@ -17,13 +17,9 @@
 - Wyszukiwanie sąsiadów tylko w okręgu o promieniu $r$
 - Tylko $K$ najbliższych sąsiadów
 - Na podstawie widoczności ([[raytracing]])
-
->[!IMPORTANT]
-> Znaleziona ścieżka nie jest optymalna, ale wraz z ilością próbek $n$, zbliża się do optimum (algorytm optymalny asymptotycznie)
-
 ### Właściwości
 - Probabilistyczne kompletny ([[sampling-based search algorithms#^probabilistically-complete]]).
-- Algorytm optymalnie asymptotycznie ([[asymptotically optimal]])
+- Algorytm nie jest optymalnie asymptotycznie ([[asymptotically optimal]])
 - Złożoność $O(n^2)$
 - Wersja z ograniczeniami na sąsiadów nie jest **probabilistycznie kompletna**.
 

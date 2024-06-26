@@ -1,4 +1,7 @@
 *Asymptotycznie optymalny wariant algorytmu [[PRM]].*
+>[!IMPORTANT]
+> tzn., znaleziona ścieżka nie jest optymalna, ale wraz z rosnącą ilością próbek $n$, zbliża się do optimum (algorytm optymalny asymptotycznie)
+
 ![[PRM-star.png]]
 ### Dynamiczna zmiana promienia $r$
 W wariancie, gdzie [[PRM]] podczas łączenia bierze pod uwagę wierzchołki w promieniu $r$ od nowego wierzchołka.
