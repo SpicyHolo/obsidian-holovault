@@ -11,8 +11,10 @@
             "id": "b15ad9b6f062f07b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Planowanie ruchu/assets/Pasted image 20240626004951.png"
+              }
             }
           },
           {
@@ -73,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "c19d8ea217b70bab",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planowanie ruchu/assets/Pasted image 20240626004951.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Planowanie ruchu/assets/Pasted image 20240626004951.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Planowanie ruchu/assets/Pasted image 20240626004951.png"
+              }
             }
           }
         ]
@@ -146,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b15ad9b6f062f07b",
+  "active": "d4d0da801ad426c1",
   "lastOpenFiles": [
     "Planowanie ruchu/PRM.md",
     "Planowanie ruchu/RRT.md",
@@ -167,7 +172,7 @@
     "Planowanie ruchu/assets/inevitable collision states.png",
     "Planowanie ruchu/2D motion constraints.md",
     "Planowanie ruchu/motion planning.md",
-    "D-star.md",
+    "Planowanie ruchu/D-star.md",
     "Planowanie ruchu/metric map.md",
     "Planowanie ruchu/sampling-based search algorithms.md",
     "Planowanie ruchu/RRT-star.md",
